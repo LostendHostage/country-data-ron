@@ -1,4 +1,4 @@
-return {
+local data = {
   Paraguay = {
     Cities = {"Asunción", "San Lorenzo", "Encarnación", "Ciudad del Este", "Pedro Juan Caballero", "Coronel Oviedo", "Concepción", "Villarrica", "Itá", "Ypacaraí", "Pilar", "Caacupé", "Paraguarí", "Bella Vista", "Horqueta", "Villa Hayes", "Coronel Bogado", "Belén", "Filadelfia", "San Pedro", "San Juan Bautista", "Caazapá", "Hohenau", "Rosario", "La Victoria" },
   },
@@ -717,3 +717,5 @@ return {
     Cities = {"Bangkok", "Chiang Mai", "Samut Prakan", "Nakhon Ratchasima", "Hat Yai", "Ubon Ratchathani", "Nonthaburi", "Khon Kaen", "Udon Thani", "Nakhon Si Thammarat", "Chon Buri", "Lampang", "Si Racha", "Phitsanulok", "Surat Thani", "Pathum Thani", "Pattani", "Yala", "Trang", "Ayutthaya", "Phuket", "Nakhon Pathom", "Chiang Rai", "Nakhon Sawan", "Ratchaburi", "Nong Khai", "Chanthaburi", "Phetchaburi", "Chumphon", "Nan", "Prachin Buri", "Uttaradit", "Sakhon Nakhon", "Saraburi", "Narathiwat", "Kanchanaburi", "Samut Sakhon", "Surin", "Kamphaeng Phet", "Chaiyaphum", "Lop Buri", "Nakhon Phanom", "Kalasin", "Supham Buri", "Maha Sarakham", "Phetchabun", "Hua Hin", "Chachoengsao", "Songkhla", "Buriram", "Mae Sot", "Sisaket", "Phatthalung", "Roi Et", "Phrae", "Rayong", "Phichit", "Loei", "Samut Songkhram", "Satun", "Prachuap Khiri Khan", "Tak", "Krabi", "Thung Song", "Ranong", "Aranyaprathet", "Uthai Thani", "Yasothon", "Trat", "Nakhon Nayok", "Phayao", "Sing Buri", "Bua Yai", "Chainat", "Lamphun", "Ang Thong", "Sukhothai", "Phangnga", "Mae Hong Son" },
   },
 }
+
+return data
