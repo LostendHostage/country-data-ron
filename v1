@@ -1,0 +1,719 @@
+return {
+  Paraguay = {
+    Cities = {"Asunción", "San Lorenzo", "Encarnación", "Ciudad del Este", "Pedro Juan Caballero", "Coronel Oviedo", "Concepción", "Villarrica", "Itá", "Ypacaraí", "Pilar", "Caacupé", "Paraguarí", "Bella Vista", "Horqueta", "Villa Hayes", "Coronel Bogado", "Belén", "Filadelfia", "San Pedro", "San Juan Bautista", "Caazapá", "Hohenau", "Rosario", "La Victoria" },
+  },
+  Mongolia = {
+    Cities = {"Ulaanbaatar", "Erdenet", "Darhan", "Ulaangom", "Olgiy", "Choybalsan", "Dund-Us", "Arvayheer", "Mörön", "Bayankhongor", "Suchboatar", "Tsetserleg", "Dzuunharaa", "Dzuunmod", "Bulgan", "Baruun Urt", "Dalandzadgad", "Ondorhaan", "Buyant-Uhaa", "Uliastay" },
+  },
+  Laos = {
+    Cities = {"Vientiane", "Louangphrabang", "Pakxe", "Savannakhet", "Thakhek", "Xam Nua", "Xaignabouri", "Champasak", "Ban Houayxay", "Phongsali", "Saravan", "Xiangkhoang" },
+  },
+  Sint Maarten = {
+    Cities = {"Philipsburg" },
+  },
+  Djibouti = {
+    Cities = {"Djibouti", "Ali Sabih", "Tadjoura", "Obock", "Dikhil" },
+  },
+  Venezuela = {
+    Cities = {"Caracas", "Maracaibo", "Valencia", "Barquisimeto", "Maracay", "Ciudad Guayana", "Barcelona", "Puerto la Cruz", "Cabimas", "San Cristóbal", "Maturín", "Merida", "Ciudad Bolívar", "Cumaná", "Maiquetía", "Los Teques", "Barinas", "Acarigua", "Punto Fijo", "El Tigre", "Porlamar", "Coro", "Valera", "Puerto Cabello", "Ocumare del Tuy", "Guanare", "Carora", "Carúpano", "San Fernando de Apure", "Anaco", "Calabozo", "San Carlos del Zulia", "Valle de la Pascua", "San Juan De Los Morros", "San Carlos", "San Felipe", "Machiques", "Upata", "Puerto Ayacucho", "Tucupita", "Trujillo", "Zaraza", "Altagracia de Orituco", "La Asunción", "Santa Rita", "Guasdualito", "Chaguaramas" },
+  },
+  Israel = {
+    Cities = {"Tel Aviv-Yafo", "Haifa", "Beer Sheva", "Nazareth", "Ramla", "West Jerusalem" },
+  },
+  Gabon = {
+    Cities = {"Libreville", "Port-Gentil", "Oyem", "Franceville", "Moanda", "Mouila", "Lambaréné", "Tchibanga", "Bitam", "Makokou", "Koulamoutou", "Gamba", "Okandja", "Ndende" },
+  },
+  Bhutan = {
+    Cities = {"Thimphu", "Paro", "Wangdue Prodrang", "Punakha" },
+  },
+  Gibraltar = {
+    Cities = {"Gibraltar" },
+  },
+  Afghanistan = {
+    Cities = {"Kabul", "Kandahar", "Jalalabad", "Herat", "Mazar-e Sharif", "Kondoz", "Baghlan", "Lashkar Gah", "Meymaneh", "Balkh", "Ghazni", "Gardiz", "Sheberghan", "Farah", "Andkhvoy", "Feyzabad", "Taloqan", "Bamian", "Pol-e Khomri", "Charikar", "Zaranj", "Asadabad", "Mayda Shahr", "Aybak", "Baraki Barak", "Karokh", "Mehtar Lam", "Chaghcharan", "Zareh Sharan", "Qalat", "Tarin Kowt", "Mahmud-E Eraqi", "Khandud" },
+  },
+  Uzbekistan = {
+    Cities = {"Tashkent", "Fargona", "Namangan", "Samarqand", "Andijon", "Shahrisabz", "Qarshi", "Qoqon", "Bukhara", "Kattaqorgon", "Jizzax", "Nukus", "Denow", "Navoi", "Angren", "Iskandar", "Termiz", "Chirchiq", "Urgentch", "Khiwa", "Olmaliq", "Kogon", "Urgut", "Guliston", "Zarafshon", "Khujayli", "Qunghirot", "Chimboy", "Muynoq" },
+  },
+  Moldova = {
+    Cities = {"Chișinău", "Tiraspol", "Bălți", "Cahul", "Dubăsari" },
+  },
+  Anguilla = {
+    Cities = {"The Valley" },
+  },
+  Romania = {
+    Cities = {"Bucharest", "Iași", "Cluj-Napoca", "Timișoara", "Galați", "Brașov", "Craiova", "Constanța", "Ploiești", "Oradea", "Brăila", "Bacău", "Pitești", "Arad", "Sibiu", "Tirgu Mures", "Baia Mare", "Buzău", "Botoșani", "Satu Mare", "Rimnicu Vilcea", "Drobeta-Turnu Severin", "Suceava", "Focșani", "Piatra-Neamt", "Târgu Jiu", "Tulcea", "Târgoviște", "Reșița", "Bistrița", "Slatina", "Călărași", "Vaslui", "Giurgiu", "Deva", "Alba Lulia", "Zalău", "Sfintu-Gheorghe", "Slobozia", "Alexandria", "Miercurea Cuic" },
+  },
+  American Samoa = {
+    Cities = {"Pago Pago" },
+  },
+  Slovakia = {
+    Cities = {"Bratislava", "Košice", "Prešov", "Žilina", "Banská Bystrica", "Trnava", "Zvolen" },
+  },
+  Singapore = {
+    Cities = {"Singapore" },
+  },
+  Greece = {
+    Cities = {"Athens", "Thessaloniki", "Piraeus", "Patra", "Iraklio", "Larissa", "Volos", "Ioanina", "Hania", "Agrinio", "Chalkida", "Kalamata", "Kavala", "Rodos", "Seres", "Katerini", "Alexandroupoli", "Xanthi", "Lamia", "Komatini", "Kerkira", "Mitilini", "Tripoli", "Hios", "Pirgos", "Kos", "Sparti", "Ermoupoli", "Sitia", "Polygyros" },
+  },
+  Saint Pierre and Miquelon = {
+    Cities = {"Saint-Pierre" },
+  },
+  Cameroon = {
+    Cities = {"Douala", "Yaounde", "Bamenda", "Garoua", "Maroua", "Bafoussam", "Ngaoundéré", "Bertoua", "Limbe", "Edéa", "Kumba", "Kumbo", "Nkongsamba", "Bafang", "Foumban", "Buea", "Ebolowa", "Guider", "Mbalmayo", "Meiganga", "Bafia", "Wum", "Kribi", "Batouri", "Tibati", "Bélabo", "Eséka", "Abong Mbang", "Kontcha", "Eyumojok", "Kousseri", "Yokadouma" },
+  },
+  Kiribati = {
+    Cities = {"Tarawa" },
+  },
+  Reunion = {
+    Cities = {"St.-Denis", "St.-Benoit" },
+  },
+  Netherlands = {
+    Cities = {"The Hague", "Amsterdam", "Rotterdam", "Utrecht", "Eindhoven", "Haarlem", "Groningen", "Arnhem", "'s-Hertogenbosch", "Leeuwarden", "Maastricht", "Zwolle", "Assen", "Middelburg" },
+  },
+  Samoa = {
+    Cities = {"Apia" },
+  },
+  Morocco = {
+    Cities = {"Casablanca", "Rabat", "Fez", "Marrakesh", "Agadir", "Tangier", "Meknes", "Kenitra", "Oujda", "Safi", "Ksar El Kebir", "Er Rachidia", "Taza", "El Jadida", "Settat", "Larache", "Goulimine", "Ouezzane", "Tan Tan", "Tiznit", "Laayoune", "Dakhla", "Smara", "Cape Bojador", "Tifariti", "Bir Lehlou", "Al Hoceima" },
+  },
+  Saint Vincent And The Grenadines = {
+    Cities = {"Kingstown" },
+  },
+  Switzerland = {
+    Cities = {"Geneva", "Zürich", "Basel", "Bern", "Lausanne", "Luzern", "Lugano", "Biel", "Saint Gallen", "Chur", "Schaffhausen", "Fribourg", "Neuchâtel", "Sion", "Zug", "Frauenfeld", "Bellinzona", "Aarau", "Herisau", "Solothurn", "Schwyz", "Liestal", "Delémont", "Sarnen", "Altdorf", "Stans", "Glarus", "Appenzell" },
+  },
+  Jordan = {
+    Cities = {"Amman", "Az Zarqa", "Irbid", "As Salt", "Al Aqabah", "Al Karak", "Al Mafraq", "Ma'an", "At Tafilah", "Ruwaished", "Al-Jafr", "Al Qatrana" },
+  },
+  Madagascar = {
+    Cities = {"Antananarivo", "Antsirabe", "Toamasina", "Fianarantsoa", "Mahajanga", "Toliara", "Antsiranana", "Antalaha", "Sambava", "Ambatondrazaka", "Maroantsetra", "Morondava", "Marovoay", "Ambanja", "Mananjary", "Farafangana", "Andoany", "Antsohihy", "Miandrivazo", "Ihosy", "Tôlanaro", "Morombe", "Mandritsara", "Maintirano" },
+  },
+  China = {
+    Cities = {"Shanghai", "Beijing", "Guangzhou", "Shenzhen", "Wuhan", "Tianjin", "Chongqing", "Shenyeng", "Dongguan", "Chengdu", "Xian", "Hechi", "Nanjing", "Guiyang", "Harbin", "Zhangzhou", "Changchun", "Dalian", "Zibo", "Hangzhou", "Kunming", "Taiyuan", "Qingdao", "Jinan", "Zhengzhou", "Fuzhou", "Changsha", "Xiangtan", "Lanzhou", "Xiamen", "Jinxi", "Shijianzhuang", "Jilin", "Nanchang", "Wenzhou", "Nanchong", "Nanning", "Ürümqi", "Zaozhuang", "Yantai", "Xuzhou", "Linyi", "Haikou", "Baotou", "Hefei", "Suzhou", "Nanyang", "Ningbo", "Tangshan", "Datong", "Shuyang", "Shangqiu", "Wuxi", "Hohhot", "Luoyang", "Jianmen", "Daqing", "Luan", "Wanzhou", "Suzhou", "Qiqihar", "Anshan", "Handan", "Taian", "Shantou", "Zhanjiang", "Xiantao", "Weifang", "Xinyang", "Luzhou", "Ganzhou", "Liuzhou", "Fushun", "Changde", "Neijiang", "Quanzhou", "Huainan", "Suining", "Mianyang", "Maanshan", "Yiyang", "Heze", "Changzhou", "Chifeng", "Huaiyin", "Mudangiang", "Huzhou", "Tianshui", "Lupanshui", "Maoming", "Jining", "Leshan", "Shangrao", "Yulin", "Xianyang", "Baoding", "Zigong", "Ankang", "Jinhua", "Zhuzhou", "Xiangfan", "Zhucheng", "Xining", "Zhangjiakou", "Zhuhai", "Jiamusi", "Hengyang", "Benxi", "Qinhuangdao", "Yongzhou", "Baoshan", "Yinchuan", "Jiaxing", "Guilin", "Yichun", "Yangquan", "Jixi", "Xinyi", "Pingxiang", "Jinzhou", "Nantong", "Foshan", "Xinyu", "Huaibei", "Xinxiang", "Yibin", "Bengbu", "Anyang", "Tongliao", "Yichang", "Yangjiang", "Kaifeng", "Dandong", "Xuanzhou", "Rizhao", "Jiaozuo", "Zhenjiang", "Zunyi", "Anshun", "Pingdingshan", "Yuci", "Yancheng", "Linfen", "Yueyang", "Xingyi", "Langfang", "Wuhu", "Zhaotang", "Lingyuan", "Baoji", "Yingkow", "Liaoyang", "Shaoxing", "Yichun", "Fuyang", "Fuxin", "Shiyan", "Jincheng", "Hegang", "Beihai", "Shaoguan", "Lianyungang", "Qingyuan", "Changzhi", "Huangshi", "Puyang", "Zhanyi", "Zhuozhou", "Changping", "Taizhou", "Xiangtai", "Anqing", "Shihezi", "Shuozhou", "Tongling", "Weihai", "Siping", "Jiujiang", "Kashgar", "Yangzhou", "Linxia", "Jiangmen", "Cangzhou", "Jian", "Shashi", "Liaoyuan", "Shuangyashan", "Wuwei", "Yanji", "Zhaoqing", "Jiaojing", "Chaoyang", "Panzhihua", "Jingdezhen", "Hengshui", "Qitaihe", "Chengde", "Xuchang", "Wuzhou", "Guangyuan", "Chaozhou", "Luohe", "Meizhou", "Xuanhua", "Yining", "Jingmen", "Yuxi", "Baicheng", "Xichang", "Dezhou", "Zhoukou", "Putian", "Shache", "Quzhou", "Longyan", "Sanya", "Fuyu", "Wafangdian", "Longxi", "Yumen", "Aksu", "Tieling", "Yaan", "Hangu", "Heyuan", "Baishan", "Chenzhou", "Ninde", "Mengzi", "Hami", "Hulan Ergi", "Huizhou", "Tongchuan", "Jining", "Xinzhou", "Jinshi", "Hotan", "Zhuanghe", "Turpan", "Chuxiong", "Suihua", "Linhai", "Laiyang", "Qinzhou", "Hebi", "Ulanhot", "Linchuan", "Zicheng", "Shishou", "Hailar", "Zhangye", "Beipiao", "Liaocheng", "Hancheng", "Lhasa", "Wuhai", "Nanping", "Sanming", "Pingliang", "Korla", "Jiutai", "Puqi", "Lianxian", "Huangyan", "Dunhua", "Anda", "Zhaodong", "Bose", "Lishui", "Weinan", "Fuyang", "Simao", "Xiaogan", "Dali", "Yulin", "Beian", "Guangshui", "Dingzhou", "Wenshan", "Deyang", "Gejiu", "Jiayuguan", "Hanzhong", "Jinchang", "Altay", "Jieshou", "Nongan", "Dunhuang", "Zalantun", "Shizuishan", "Yunxian", "Shuangcheng", "Macheng", "Tengchong", "Laiwu", "Jiaohe", "Nancha", "Xilinhot", "Huanghua", "Tongren", "Huanren", "Taonan", "Yakeshi", "Buizhou", "Zhijiang", "Shaowu", "Kuqa", "Linqing", "Hailun", "Dali", "Tieli", "Heihe", "Karamay", "Nehe", "Golmud", "Longjiang", "Houma", "Chamdo", "Tumen", "Fengzhen", "Shangzhi", "Boli", "Yishui", "Manzhouli", "Daan", "Fuan", "Danjiangkou", "Pingdu", "Fujin", "Wangqing", "Changting", "Mishan", "Nenjiang", "Panshi", "Helong", "Linjiang", "Nangong", "Xigaze", "Koktokay", "Shulan", "Pingyi", "Linkou", "Jiexiu", "Tailai", "Shanxian", "Lanxi", "Keshan", "Anlu", "Baiquan", "Rongzhag", "Liuhe", "Minxian", "Huinan", "Qinggang", "Fengcheng", "Langzhong", "Dengzhou", "Gannan", "Suileng", "Alxa Zuoqi", "Changling", "Xinqing", "Ningan", "Qingan", "Bairin Zuoqi", "Tacheng", "Fengjie", "Yishan", "Shaoyang", "Ergun Zuoqi", "Hulin", "Orongen Zizhiqi", "Hanggin Houqi", "Yian", "Quiemo", "Arxan", "Pingxiang", "Wuyuan", "Bayan Obo", "Tonghua", "Angangxi", "Wuchuan", "Jyekundo", "Erenhot", "Shangdu", "Lijiang", "Anxi", "Bugt", "Gyangze", "Gar", "Guide", "Zixing", "Huize" },
+  },
+  Guadeloupe = {
+    Cities = {"Pointe-à-Pitre" },
+  },
+  Liechtenstein = {
+    Cities = {"Vaduz" },
+  },
+  Botswana = {
+    Cities = {"Gaborone", "Francistown", "Lobatse", "Molepolole", "Mahalapye", "Maun", "Serowe", "Kanye", "Mochudi", "Palapye", "Tshabong", "Kasane", "Ghanzi" },
+  },
+  Kuwait = {
+    Cities = {"Kuwait", "Al Jahra", "Al Ahmadi" },
+  },
+  Burkina Faso = {
+    Cities = {"Ouagadougou", "Bobo Dioulasso", "Koudougou", "Ouahigouya", "Banfora", "Dédougou", "Kaya", "Tenkodogo", "Dori", "Réo", "Fada Ngourma", "Koupéla", "Kombissiri", "Nouna", "Gaoua", "Leo", "Diapaga", "Zorgo", "Yako", "Djibo", "Orodara", "Pô", "Tougan", "Boulsa", "Manga", "Diébougou", "Ziniaré", "Solenzo", "Bogandé", "Gorom Gorom" },
+  },
+  Cayman Islands = {
+    Cities = {"George Town" },
+  },
+  Oman = {
+    Cities = {"Muscat", "As Sib", "Salalah", "Suhar", "Ibri", "Nizwa", "Alayat Samail", "Haima", "Sur", "Khasab", "Sinaw" },
+  },
+  Papua New Guinea = {
+    Cities = {"Port Moresby", "Lae", "Madang", "Mt. Hagen", "Arawa", "Goroka", "Popondetta", "Mendi", "Wewak", "Kavieng", "Kimbe", "Daru", "Alotau", "Vanimo", "Kundiawa", "Rabaul", "Kieta", "Lorengau", "Kerema" },
+  },
+  Wallis and Futuna = {
+    Cities = {"Mata Utu" },
+  },
+  United States Virgin Islands = {
+    Cities = {"Charlotte Amalie" },
+  },
+  Panama = {
+    Cities = {"Panama City", "Colón", "David", "Balboa", "Santiago", "Chitré", "Penonome", "Puerto Armuelles", "Las Tablas", "Bocas del Toro", "Almirante", "La Palma" },
+  },
+  Tanzania = {
+    Cities = {"Dar es Salaam", "Moshi", "Mwanza", "Zanzibar", "Arusha", "Mbeya", "Morogoro", "Tanga", "Dodoma", "Kigoma", "Tabora", "Musoma", "Tukuyu", "Songea", "Iringa", "Shinyanga", "Bukoba", "Mtwara", "Kilosa", "Sumbawanga", "Bagamoyo", "Uvinza", "Mpanda", "Singida", "Korogwe", "Chake Chake", "Ifakara", "Njombe", "Lindi", "Kasulu", "Tunduma", "Masasi", "Kahama", "Babati", "Biharamulo", "Kibiti", "Sikonge", "Nzega", "Wete", "Kakonko", "Kibaha", "Mpwapwa", "Itigi", "Same", "Ngara", "Mikumi", "Karema", "Nyahanga", "Mbulu", "Kilindoni", "Ngorongoro", "Mbamba Bay", "Oldeani" },
+  },
+  Cambodia = {
+    Cities = {"Phnom Penh", "Battambang", "Siem Reap", "Kampong Cham", "Kompong Chhnang", "Prey Veng", "Pursat", "Sisophon", "Kampot", "Kampong Spoe", "Krong Koh Kong", "Stoeng Treng", "Phnum Tbeng Meanchey", "Svay Rieng", "Kracheh", "Kampong Thum", "Lumphat", "Takéo", "Senmonorom" },
+  },
+  Tuvalu = {
+    Cities = {"Funafuti" },
+  },
+  Equatorial Guinea = {
+    Cities = {"Bata", "Malabo", "Luba", "Evinayong", "Mongomo" },
+  },
+  Poland = {
+    Cities = {"Katowice", "Warsaw", "Łódź", "Kraków", "Gdańsk", "Bytom", "Wrocław", "Poznań", "Gliwice", "Szczecin", "Bydgoszcz", "Lublin", "Gdynia", "Białystok", "Rzeszów", "Kielce", "Olsztyn", "Opole", "Elbląg", "Zielona Góra", "Koszalin", "Grudziądz", "Inowrocław", "Ełk", "Lębork" },
+  },
+  Sint Eustatius = {
+    Cities = {"Oranjestad" },
+  },
+  Haiti = {
+    Cities = {"Port-au-Prince", "Cap-Haïtien", "Les Cayes", "Gonaïves", "Port-De-Paix", "Jacmel", "Jérémie", "Hinche", "Fort-Liberté" },
+  },
+  Taiwan = {
+    Cities = {"Taipei", "Kaohsiung", "Taichung", "Tainan", "Zhongli", "Changhua", "Hsinchu", "Pingtung", "Taoyuan", "Chiayi", "Keelung", "Hualien", "Pingzhen", "Zhubei", "Yangmei", "Taitung", "Bade", "Nantou", "Miaoli", "Yilan", "Douliou", "Magong", "Puzi", "Taibao" },
+  },
+  Senegal = {
+    Cities = {"Dakar", "Thiès", "Kaolack", "Ziguinchor", "Diourbel", "Tambacounda", "Louga", "Kolda", "Fatick", "Kaédi", "Kédougou", "Ndioum" },
+  },
+  Saint Helena = {
+    Cities = {"Jamestown" },
+  },
+  Czech Republic = {
+    Cities = {"Prague", "Ostrava", "Brno", "Pizen", "Zlín", "Pardubice", "Liberec", "Olomouc", "České Budějovice", "Hradec Králové", "Usti Nad Labem", "Jihlava" },
+  },
+  Ireland = {
+    Cities = {"Dublin", "Cork", "Limerick", "Galway", "Waterford", "Dundalk", "Drogheda", "Tralee", "Kilkenny", "Sligo", "Killarney", "Shannon", "Muineachan" },
+  },
+  Saint Barthelemy = {
+    Cities = {"Gustavia" },
+  },
+  Tonga = {
+    Cities = {"Nukualofa", "Neiafu" },
+  },
+  Germany = {
+    Cities = {"Berlin", "Stuttgart", "Frankfurt", "Mannheim", "Hamburg", "Essen", "Duisburg", "Munich", "Düsseldorf", "Cologne", "Wuppertal", "Saarbrücken", "Nürnberg", "Bremen", "Hannover", "Bonn", "Dresden", "Wiesbaden", "Dortmund", "Leipzig", "Heidelberg", "Karlsruhe", "Augsburg", "Bielefeld", "Koblenz", "Chemnitz", "Kassel", "Münster", "Kiel", "Freiburg", "Braunschweig", "Fürth", "Lübeck", "Osnabrück", "Magdeburg", "Potsdam", "Erfurt", "Rostock", "Mainz", "Ulm", "Würzburg", "Oldenburg", "Regensburg", "Ingolstadt", "Göttingen", "Bremerhaven", "Cottbus", "Jena", "Gera", "Flensburg", "Schwerin", "Rosenheim", "Gießen", "Stralsund", "Coburg", "Hof", "Emden", "Passau" },
+  },
+  Mexico = {
+    Cities = {"Mexico City", "Guadalajara", "Monterrey", "Puebla", "Tijuana", "Toluca", "León", "Ciudad Juárez", "Torreón", "Nezahualcoyotl", "San Luis Potosí", "Mérida", "Querétaro", "Mexicali", "Aguascalientes", "Tampico", "Cuernavaca", "Culiacán", "Chihuahua", "Saltillo", "Acapulco", "Morelia", "Hermosillo", "Veracruz", "Cancún", "Matamoros", "Oaxaca", "Tlaxcala", "Mazatlán", "Reynosa", "Tuxtla Gutiérrez", "Durango", "Xalapa", "Villahermosa", "Gómez Palacio", "Celaya", "Mazatlán", "Orizaba", "Nuevo Laredo", "Irapuato", "Pachuca", "Tepic", "Ciudad Obregon", "Coatzacoalcos", "Ciudad Victoria", "Uruapan", "Ensenada", "Poza Rica de Hidalgo", "Zumpango", "Los Mochis", "Tehuacan", "Monclova", "Zacatecas", "Colima", "Tapachula", "Córdoba", "Zamora", "Campeche", "Minatitlán", "Salamanca", "Ciudad Madero", "La Paz", "Puerto Vallarta", "San Cristobal de Las Casas", "Chilpancingo", "Nogales", "Teziutlán", "Lázaro Cárdenas", "Ciudad del Carmen", "Chetumal", "San Juan del Río", "Piedras Negras", "Navajoa", "Ciudad Valles", "Delicias", "Guanajuato", "Iguala", "Manzanillo", "Tuxpam", "Escuintla", "Fresnillo", "Guaymas", "Hidalgo del Parral", "Apatzingán", "Atlixco", "Guasave", "Lagos de Moreno", "Ciudad Guzman", "Tecoman", "Cuauhtémoc", "Agua Prieta", "Salina Cruz", "Ciudad Mante", "Cozumel", "Tamazunchale", "Rio Verde", "Matehuala", "Juchitan", "Jaltipan", "Ciudad Hidalgo", "Guamúchil", "Linares", "Caborca", "Nuevo Casas Grandes", "San Pedro de las Colonias", "Taxco", "Valladolid", "Huajuapan de León", "Autlan", "Progreso", "Tehuantepec", "Montemorelos", "Cabo San Lucas", "Tizimín", "Ciudad Constitución", "Ciudad Camargo", "Nueva Rosita", "La Barca", "Pánuco", "Cananea", "Tenosique", "Parras", "Sabinas Hidalgo", "Petatlán", "Ticul", "Huatabampo", "Ometepec", "San Fernando", "Escuinapa", "Champotón", "Tuxpan", "Felipe Carrillo Puerto", "Ciudad Altamirano", "Pochutla", "Paraíso", "Pijijiapan", "Magdalena", "Tekax", "Papasquiaro", "Frontera", "Ojinaga", "Tlaxiaco", "Motul", "San Felipe", "Atoyac", "Allende", "Puerto Escondido", "Acatlan", "Santiago Ixcuintla", "Miahuatlán", "Peto", "Eldorado", "Compostela", "Santiago Tuxtla", "Villa Unión", "Cardenas", "Izamal", "Tecuala", "Tamuín", "Tecpan", "Juan Aldama", "Guerrero Negro", "Vicente Guerrero", "Isla Mujeres", "Aldama", "La Cruz", "Santa Rosalía", "Balancán", "Nacozari de García", "Ascensión", "Loreto", "El Fuerte", "Villanueva", "Santa Barbara", "Coalcoman", "Valparaíso", "Canatlan", "Ayutla", "Villa Ahumada", "Halachó", "Tula", "Cuencame", "Mitla", "San Quintín" },
+  },
+  Mayotte = {
+    Cities = {"Dzaoudzi" },
+  },
+  Gambia = {
+    Cities = {"Brikama", "Banjul", "Mansa Konko", "Basse Santa Su", "Bansang" },
+  },
+  Sierra Leone = {
+    Cities = {"Freetown", "Bo", "Kenema", "Makeni", "Koidu" },
+  },
+  Uganda = {
+    Cities = {"Kampala", "Mbale", "Jinja", "Arua", "Entebbe", "Tororo", "Gulu", "Lira", "Mbarara", "Bombo", "Kasese", "Masaka", "Kitgum", "Busia", "Iganga", "Kabale", "Fort Portal", "Mityana", "Adjumani", "Masindi", "Pallisa", "Nebbi", "Moyo", "Kayunga", "Mubende", "Pakwach", "Ntungamo", "Kiboga", "Sironko", "Kumi", "Kisoro", "Kamuli", "Mpigi", "Katakwi", "Masindi-Port", "Nakasongola", "Kibale", "Kalangala" },
+  },
+  Nigeria = {
+    Cities = {"Lagos", "Kano", "Ibadan", "Abuja", "Kaduna", "Benin City", "Ikare", "Port Harcourt", "Ogbomosho", "Aba", "Maiduguri", "Zaria", "Warri", "Jos", "Ilorin", "Oyo", "Sokoto", "Enugu", "Abeokuta", "Uyo", "Awka", "Ife", "Calabar", "Ado Ekiti", "Katsina", "Akure", "Oshogbo", "Bauchi", "Sapele", "Makurdi", "Minna", "Owo", "Gombe", "Umuahia", "Ondo", "Damaturu", "Iwo", "Gusau", "Mubi", "Owerri", "Ijebu Ode", "Funtua", "Bida", "Lafia", "Gashua", "Bama", "Jalingo", "Nsukka", "Nguru", "Birnin Kebbi", "Azare", "Kontagora", "Iseyin", "Yola", "Biu", "Wukari", "Potiskum", "Keffi", "Numan", "Idah", "Onitsha", "Oturkpo", "Lokoja", "Kumo", "Opobo", "Koko", "Dutse", "Orlu" },
+  },
+  Bangladesh = {
+    Cities = {"Dhaka", "Chittagong", "Khulna", "Rajshahi", "Comilla", "Mymensingh", "Rangpur", "Jessore", "Sylhet", "Saidpur", "Narayanganj", "Barisal", "Tangail", "Jamalpur", "Nawabganj", "Pabna" },
+  },
+  United Kingdom = {
+    Cities = {"London", "Birmingham", "Manchester", "Leeds", "Sheffield", "Glasgow", "Newcastle", "Cardiff", "Nottingham", "Liverpool", "Southend-on-Sea", "Bristol", "Edinburgh", "Brighton", "Bradford", "Leicester", "Sunderland", "Belfast", "Portsmouth", "Bournemouth", "Middlesbrough", "Stoke", "Coventry", "Southampton", "Reading", "Kingston upon Hull", "Swansea", "Blackpool", "Plymouth", "Luton", "Oxford", "Norwich", "Aberdeen", "York", "Dundee", "Ipswich", "Peterborough", "Cambridge", "Exeter", "Bath", "Chester", "Londonderry", "Greenock", "Carlisle", "Scarborough", "Ayr", "Inverness", "Perth", "Dover", "Dumfries", "Omagh", "Penzance", "Fort William", "Kirkwall", "Wick", "Lerwick" },
+  },
+  Somalia = {
+    Cities = {"Mogadishu", "Kismaayo", "Jamaame", "Baydhabo", "Jawhar", "Beledweyne", "Gaalkacyo", "Boosaaso", "Luuq", "Buurhakaba", "Eyl", "Bandarbeyla", "Garbahaarey", "Hargeysa", "Burco", "Ceerigaabo" },
+  },
+  Northern Mariana Islands = {
+    Cities = {"Saipan", "Tinian", "Rota" },
+  },
+  Honduras = {
+    Cities = {"Tegucigalpa", "San Pedro Sula", "La Ceiba", "Choluteca", "Comayagua", "Nacaome", "Juticalpa", "Santa Rosa de Copán", "La Paz", "Yoro", "Santa Bárbara", "Trujillo", "Nueva Ocotepeque", "Gracias", "Roatán", "La Esperanza" },
+  },
+  Uruguay = {
+    Cities = {"Montevideo", "Rivera", "Punta del Este", "Salto", "Paysandú", "Melo", "Maldonado", "Tacuarembó", "Mercedes", "Artigas", "Minas", "San José de Mayo", "Durazno", "Florida", "Treinta y Tres", "Rocha", "Fray Bentos", "Bella Unión", "Colonia del Sacramento", "Trinidad", "Canelones", "Carmelo", "Santa Lucía", "Paso de los Toros", "Castillos", "Tranqueras", "Lascano" },
+  },
+  Norfolk Island = {
+    Cities = {"Kingston" },
+  },
+  Saint Martin = {
+    Cities = {"Marigot" },
+  },
+  Nauru = {
+    Cities = {"Yaren" },
+  },
+  Tunisia = {
+    Cities = {"Tunis", "Sfax", "Sousse", "Gabès", "Zarzis", "Qairouan", "Bizerte", "Gafsa", "Nabeul", "L'Ariana", "Qasserine", "Monastir", "Tataouine", "Medenine", "Béja", "Jendouba", "El Kef", "Mahdia", "Sdid Bouzid", "Tozeur", "Siliana", "Kebili", "Ben Gardane", "Zaghouan" },
+  },
+  Monaco = {
+    Cities = {"Monaco" },
+  },
+  Saint Kitts And Nevis = {
+    Cities = {"Basseterre", "Charlestown" },
+  },
+  Republic of Congo = {
+    Cities = {"Brazzaville", "Pointe-Noire", "Loubomo", "Kayes", "Owando", "Mossendjo", "Ouésso", "Sibiti", "Madingou", "Gamboma", "Impfondo", "Kinkala", "Moloundou", "Makoua", "Ewo", "Sembe", "Djambala" },
+  },
+  Micronesia = {
+    Cities = {"Palikir", "Weno", "Colonia", "Kolonia" },
+  },
+  Bonaire = {
+    Cities = {"Kralendijk" },
+  },
+  Jersey = {
+    Cities = {"Saint Helier" },
+  },
+  Guernsey = {
+    Cities = {"Saint Peter Port" },
+  },
+  Burma = {
+    Cities = {"Rangoon", "Mandalay", "Naypyidaw", "Mawlamyine", "Bago", "Myeik", "Pathein", "Monywa", "Hinthada", "Sittwe", "Letpadan", "Myingyan", "Taunggyi", "Mudon", "Dawei", "Myitkyina", "Pyay", "Pakokku", "Magway", "Yaynangyoung", "Taungoo", "Chauk", "Shwebo", "Sagaing", "Phyarpon", "Allanmyo", "Thongwa", "Ye", "Pa-an", "Namtu", "Wakema", "Pyu", "Yandoon", "Hakha", "Loikaw" },
+  },
+  Mauritius = {
+    Cities = {"Port Louis", "Curepipe" },
+  },
+  Democratic Republic of the Congo = {
+    Cities = {"Kinshasa", "Lubumbashi", "Mbuji-Mayi", "Kananga", "Kikwit", "Kisangani", "Bukavu", "Likasi", "Kolwezi", "Beni", "Butembo", "Mbandaka", "Tshikapa", "Kindu", "Matadi", "Kalemie", "Gemena", "Mbanza-Ngungu", "Mwene-Ditu", "Boma", "Uvira", "Bumba", "Isiro", "Gandajika", "Moanda", "Wamba", "Goma", "Kamina", "Bandundu", "Kipushi", "Ilebo", "Kongolo", "Bunia", "Lisala", "Lodja", "Binga", "Kasongo", "Kabinda", "Aketi", "Basankusu", "Mweka", "Gbadolite", "Kahemba", "Bulungu", "Manono", "Buta", "Basoko", "Lubao", "Lusambo", "Inongo", "Tshela", "Bukama", "Mangai", "Kampene", "Kambove", "Kaniama", "Yangambi", "Luebo", "Businga", "Mushie", "Boende", "Kabalo", "Kasangulu", "Bolobo", "Libenge", "Watsa", "Bondo", "Demba", "Kasongo-Lunda", "Zongo", "Nyunzu", "Bosobolo", "Kasaji", "Kimpese", "Moba", "Dilolo" },
+  },
+  Christmas Island = {
+    Cities = {"Flying Fish Cove" },
+  },
+  Jamaica = {
+    Cities = {"Kingston", "Spanish Town", "May Pen", "Montego Bay", "Half Way Tree", "Mandeville", "Savanna-la-Mar", "Port Antonio", "St. Ann's Bay", "Port Morant", "Port Maria", "Falmouth", "Lucea" },
+  },
+  United Arab Emirates = {
+    Cities = {"Dubai", "Sharjah", "Abu Dhabi", "Al Ayn", "Ras al Khaymah", "Al Fujayrah", "Umm al Qaywayn" },
+  },
+  Cote d'Ivoire = {
+    Cities = {"Abidjan", "Bouaké", "Daloa", "San-Pedro", "Yamoussoukro", "Korhogo", "Man", "Divo", "Gagnoa", "Soubré", "Abengourou", "Agboville", "Grand Bassam", "Dabou", "Dimbokro", "Ferkessédougou", "Bouaflé", "Bondoukou", "Séguéla", "Odienné", "Guiglo", "Toumodi", "Sassandra", "Aboisso", "Touba" },
+  },
+  Austria = {
+    Cities = {"Vienna", "Linz", "Graz", "Salzburg", "Innsbruck", "Klagenfurt", "Wiener Neustadt", "Bregenz", "Eisenstadt" },
+  },
+  Argentina = {
+    Cities = {"Buenos Aires", "Córdoba", "Rosario", "Mendoza", "Tucumán", "La Plata", "Mar del Plata", "Salta", "Santa Fe", "San Juan", "San Luis", "Resistencia", "Posadas", "Santiago del Estero", "Corrientes", "San Salvador de Jujuy", "Bahía Blanca", "Paraná", "Neuquén", "Formosa", "Catamarca", "La Rioja", "Río Cuarto", "Concordia", "Comodoro Rivadavia", "San Nicolas", "San Martín", "Santa Rosa", "San Rafael", "Tandil", "San Carlos de Bariloche", "Trelew", "Villa María", "Reconquista", "Zárate", "Rafaela", "Pergamino", "Olavarría", "Río Gallegos", "Junín", "Presidencia Roque Saenz Pena", "Luján", "Campana", "Necochea", "Gualeguaychú", "San Ramón de la Nueva Orán", "General Roca", "Venado Tuerto", "Goya", "Villa Carlos Paz", "Concepción del Uruguay", "Las Heras", "Puerto Madryn", "Tartagal", "Viedma", "San Francisco", "San Pedro", "Ushuaia", "Punta Alta", "General Pico", "Chivilcoy", "Azul", "Río Tercero", "Mercedes", "Mercedes", "Libertador General San Martín", "Cutral Có", "San Lorenzo", "Tres Arroyos", "Villa Constitución", "Alta Gracia", "Bell Ville", "Nueve de Julio", "Chacabuco", "Gualeguay", "Rio Grande", "Mercedes", "Villa Ángela", "Coronel Suárez", "Rawson", "Dolores", "Victoria", "Lincoln", "Veinticinco de Mayo", "Tunuyán", "Chascomús", "Chilecito", "Esquel", "General Guemes", "Zapala", "Balcarce", "Charata", "Lobos", "25 de Mayo", "Eldorado", "Añatuya", "Mar de Ajó", "Frias", "Joaquín V. González", "Sunchales", "Malargüe", "Cafayate", "Río Colorado", "Cerrillos", "Monte Quemado", "Humahuaca", "Belen", "Juarez", "Choele Choel", "Vera", "San Justo", "Juan José Castelli", "Chamical", "Chos Malal", "San Antonio Oeste", "El Calafate", "Las Lomitas", "Carhué", "Pedro Luro", "Rinconada", "Ingeniero Guillermo N. Juarez", "Chepes", "Ingeniero Jacobacci", "28 de Noviembre", "Sarmiento", "Oberá" },
+  },
+  Falkland Islands = {
+    Cities = {"Port Stanley", "Port Howard" },
+  },
+  Saba = {
+    Cities = {"The Bottom" },
+  },
+  Comoros = {
+    Cities = {"Moroni", "Fomboni", "Mutsamudu" },
+  },
+  Indonesia = {
+    Cities = {"Jakarta", "Surabaya", "Bandung", "Bekasi", "Medan", "Palembang", "Semarang", "Ujungpandang", "Cilacap", "Bogor", "Bandar Lampung", "Padang", "Malang", "Pekanbaru", "Denpasar", "Yogyakarta", "Palu", "Pontianak", "Bandjarmasin", "Samarinda", "Binjai", "Surakarta", "Banda Aceh", "Bukittinggi", "Pasuruan", "Mataram", "Jambi", "Manado", "Balikpapan", "Bengkulu", "Gorontalo", "Ambon", "Pematangsiantar", "Jember", "Kupang", "Sukabumi", "Majene", "Pakalongan", "Tasikmalaya", "Tebingtinggi", "Padangsidempuan", "Cirebon", "Singkawang", "Tegal", "Kediri", "Singaraja", "Tanjungpinang", "Sibolga", "Martapura", "Tarakan", "Ternate", "Madiun", "Pinrang", "Probolinggo", "Salatiga", "Banyuwangi", "Jayapura", "Kendari", "Serang", "Palangkaraya", "Lhokseumawe", "Blitar", "Pangkalpinang", "Sorong", "Indramayu", "Pati", "Langsa", "Mojokerto", "Magelang", "Raba", "Maumere", "Biak", "Perabumulih", "Bontang", "Sungaipenuh", "Sampit", "Parepare", "Sumenep", "Watampone", "Ende", "Tuban", "Manokwari", "Lahat", "Tanjungpandan", "Tidore", "Ruteng", "Sawahlunto", "Waingapu", "Luwuk", "Amahai", "Poso", "Padangpanjang", "Nabire", "Kotabumi", "Kualakapuas", "Praya", "Merauke", "Kuta", "Timika", "Baubau", "Makale" },
+  },
+  Eritrea = {
+    Cities = {"Asmara", "Mendefera", "Keren", "Massawa", "Assab", "Agordat", "Tessenei" },
+  },
+  Pakistan = {
+    Cities = {"Karachi", "Lahore", "Faisalabad", "Saidu", "Rawalpindi", "Multan", "Gujranwala", "Hyderabad", "Peshawar", "Abbottabad", "Islamabad", "Quetta", "Bannu", "Bahawalpur", "Sargodha", "Sialkote", "Sukkur", "Larkana", "Sheikhu Pura", "Mirput Khas", "Rahim Yar Khan", "Kohat", "Jhang", "Gujrat", "Mardan", "Kasur", "Dera Ghazi Khan", "Sahiwal", "Nawabshah", "Okara", "Gilgit", "Chiniot", "Sadiqabad", "Turbat", "Dera Ismail Khan", "Chaman", "Zhob", "Mansehra", "Parachinar", "Gwadar", "Kundian" },
+  },
+  Maldives = {
+    Cities = {"Malé" },
+  },
+  Iceland = {
+    Cities = {"Reykjavík", "Akureyi", "Keflavík", "Selfoss" },
+  },
+  Iraq = {
+    Cities = {"Baghdad", "Mosul", "Dahuk", "Irbil", "Basra", "As Sulaymaniyah", "An Najaf", "Kirkuk", "Al Hillah", "Karbala", "An Nasiriyah", "Ad Diwaniyah", "Al Amarah", "Al Kut", "Baqubah", "Ar Ramadi", "Az Aubayr", "Al Fallujah", "As Samawah", "Ash Shatrah", "Samarra", "Tall Afar", "Zakho", "Al Musayyib", "Tikrit", "Mandali", "Ar Rutbah", "Al-Qa'im", "Al-Salman", "An Nukhayb" },
+  },
+  Martinique = {
+    Cities = {"Fort-de-France" },
+  },
+  Palau = {
+    Cities = {"Koror", "Melekeok" },
+  },
+  Montserrat = {
+    Cities = {"Brades" },
+  },
+  Greenland = {
+    Cities = {"Nuuk", "Sisimiut" },
+  },
+  Faroe Islands = {
+    Cities = {"Tórshavn" },
+  },
+  Dominica = {
+    Cities = {"Roseau" },
+  },
+  Marshall Islands = {
+    Cities = {"Majuro" },
+  },
+  Malta = {
+    Cities = {"Valletta" },
+  },
+  Guinea = {
+    Cities = {"Conakry", "Gueckedou", "Nzérékoré", "Labé", "Kindia", "Boké", "Kankan", "Mamou", "Kissidougou", "Siguiri", "Macenta", "Kamsar", "Télimélé", "Tongue", "Fria", "Pita", "Faranah", "Kérouané", "Kouroussa", "Koundara", "Beyla", "Dabola", "Forecariah", "Gaoual", "Dalaba", "Dinguiraye", "Mali" },
+  },
+  Cook Islands = {
+    Cities = {"Avarua" },
+  },
+  Seychelles = {
+    Cities = {"Victoria" },
+  },
+  Japan = {
+    Cities = {"Tokyo", "Ōsaka", "Yokohama", "Nagoya", "Fukuoka", "Sapporo", "Sendai", "Hiroshima", "Kyoto", "Kōbe", "Kawasaki", "Kitakyūshū", "Hamamatsu", "Naha", "Okayama", "Kumamoto", "Shizuoka", "Utsunomiya", "Nagano", "Hachiōji", "Niigata", "Kagoshima", "Kanazawa", "Ōtsu", "Matsuyama", "Tsu", "Ōita", "Tokushima", "Wakayama", "Nagasaki", "Gifu", "Iwaki", "Asahikawa", "Mito", "Maebashi", "Kōriyama", "Kawagoe", "Kōchi", "Takamatsu", "Toyama", "Miyazaki", "Akita", "Hakodate", "Aomori", "Morioka", "Fukushima", "Yamagata", "Fukui", "Shimonoseki", "Hachinohe", "Sasebo", "Matsumoto", "Kushiro", "Kōfu", "Kure", "Nagaoka", "Hirosaki", "Tomakomai", "Obihiro", "Takaoka", "Matsue", "Muroran", "Tottori", "Otaru", "Kitami", "Sakata", "Tsuruoka", "Maizuru", "Kanoya" },
+  },
+  French Guiana = {
+    Cities = {"Cayenne", "Saint-Laurent-du-Maroni", "Kourou" },
+  },
+  Rwanda = {
+    Cities = {"Kigali", "Nyanza", "Gitarama", "Ruhengeri", "Gisenyi", "Butare", "Byumba", "Kibuye", "Kibungo", "Cyangugu", "Gikongoro" },
+  },
+  Grenada = {
+    Cities = {"Saint George's" },
+  },
+  South Sudan = {
+    Cities = {"Yei", "Malakal", "Wau", "Juba", "Gogrial", "Aweil", "Yambio", "Rumbek", "Bor", "Maridi", "Bentiu", "Kapoeta", "Melut" },
+  },
+  Georgia = {
+    Cities = {"Tbilisi", "Kutaisi", "Rustavi", "Batumi", "Sukhumi", "Poti", "Tskhinvali", "Gori", "Telavi", "Mestia" },
+  },
+  Isle Of Man = {
+    Cities = {"Douglas" },
+  },
+  Saint Lucia = {
+    Cities = {"Castries" },
+  },
+  Vanuatu = {
+    Cities = {"Port Vila", "Luganville" },
+  },
+  Cyprus = {
+    Cities = {"Lemosos", "Larnaka", "Paphos", "Rizokarpaso", "Trikomo", "North Nicosia", "South Nicosia" },
+  },
+  Niger = {
+    Cities = {"Niamey", "Maradi", "Zinder", "Agadez", "Tahoua", "Arlit", "Birni Nkonni", "Dosso", "Gaya", "Diffa", "Ayorou", "Madaoua", "Tillabéri", "Nguigmi", "Gouré" },
+  },
+  Andorra = {
+    Cities = {"Andorra la Vella" },
+  },
+  Central African Republic = {
+    Cities = {"Bangui", "Mbaïki", "Bossangoa", "Bambari", "Berbérati", "Kaga Bandoro", "Bozoum", "Carnot", "Bouar", "Sibut", "Bangassou", "Bria", "Nola", "Zemio", "Mobaye", "Obo", "Ndele", "Birao", "Bossembélé", "Ouadda" },
+  },
+  Eswatini = {
+    Cities = {"Manzini", "Mbabane", "Lobamba", "Siteki", "Piggs Peak" },
+  },
+  Liberia = {
+    Cities = {"Monrovia", "Buchanan", "Gbarnga", "Kakata", "Harper", "Voinjama", "Zwedru", "Robertsport", "Sanniquellie", "Greenville" },
+  },
+  Aruba = {
+    Cities = {"Oranjestad" },
+  },
+  Croatia = {
+    Cities = {"Zagreb", "Split", "Rijeka", "Slavonski Brod", "Osijek", "Zadar", "Pula", "Karlovac", "Šibenik", "Dubrovnik" },
+  },
+  Sudan = {
+    Cities = {"Khartoum", "Omdurman", "Port Sudan", "Kassala", "El Obeid", "Niyala", "Kosti", "Medani", "El Fasher", "Gedaref", "Shendi", "Ad Damazīn", "Kadugli", "Atbara", "Geneina", "El Manaqil", "Sennar", "En Nuhud", "EdDamer", "Ed Dueim", "Tokar", "Umm Ruwaba", "Berber", "Dongola", "Haiya", "Muglad", "Babanusa", "Wadi Halfa", "Merowe" },
+  },
+  Sao Tome And Principe = {
+    Cities = {"São Tomé" },
+  },
+  New Caledonia = {
+    Cities = {"Nouméa" },
+  },
+  Slovenia = {
+    Cities = {"Ljubljana", "Maribor" },
+  },
+  Togo = {
+    Cities = {"Lomé", "Sokodé", "Kpalimé", "Atakpamé", "Bassar", "Mango", "Sotouboua" },
+  },
+  Iran = {
+    Cities = {"Tehran", "Mashhad", "Isfahan", "Karaj", "Tabriz", "Shiraz", "Ahvaz", "Qom", "Kermanshah", "Zahedan", "Rasht", "Kerman", "Urmia", "Hamadan", "Arak", "Yazd", "Qazvin", "Bandar-e-Abbas", "Khomeini Shahr", "Ardabil", "Khorramabad", "Abadan", "Zanjan", "Sanandaj", "Birjand", "Dezful", "Gorgan", "Sari", "Borujerd", "Kashan", "Zabol", "Sabzewar", "Neyshabur", "Amol", "Bojnurd", "Khvoy", "Varamin", "Malayer", "Saveh", "Sirjan", "Bandar-e Bushehr", "Mahabad", "Gonbad-e Kavus", "Kashmar", "Masjed Soleyman", "Ilam", "Maragheh", "Quchan", "Shahrud", "Shar e Kord", "Marv Dasht", "Semnan", "Fasa", "Qomsheh", "Torbat-e Jam", "Ahar", "Bam", "Yasuj", "Behbehan", "Chabahar", "Bijar", "Qasr-e Shirin", "Minab" },
+  },
+  Ukraine = {
+    Cities = {"Kyiv", "Kharkiv", "Dnipro", "Odessa", "Donetsk", "Lviv", "Zaporizhzhya", "Kryvyy Rih", "Mykolayiv", "Mariupol", "Luhansk", "Khmelnytskyy", "Horlivka", "Makiyivka", "Vinnytsya", "Kherson", "Poltava", "Chernihiv", "Chernivtsi", "Cherkasy", "Sumy", "Zhytomyr", "Rivne", "Kirovohrad", "Ternopil", "Ivano-Frankivsk", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk", "Melitopol", "Uzhgorod", "Nikopol", "Lysychansk", "Drohobych", "Berdyansk", "Nizhyn", "Kamyanets-Podilskyy", "Konotop", "Shostka", "Brovary", "Uman", "Izmayil", "Kupyansk", "Korosten", "Kovel", "Illichivsk", "Voznesensk", "Sevastopol", "Simferopol" },
+  },
+  Libya = {
+    Cities = {"Tripoli", "Banghazi", "Misratah", "Tubruq", "Al Khums", "Az Zawiyah", "Zuwarah", "Al Marj", "Gharyan", "Ajdabiya", "Surt", "Darnah", "Sabha", "Nalut", "Bani Walid", "Marzuq", "Birak", "Shahhat", "Mizdah", "Ghat", "Al Jawf", "Hun", "Ghadamis", "Awjilah", "Qaminis" },
+  },
+  Costa Rica = {
+    Cities = {"San José", "Alajuela", "Cartago", "Puerto Limon", "Puntarenas", "Liberia", "Quesada", "Heredia", "Canas", "Golfito" },
+  },
+  Bosnia And Herzegovina = {
+    Cities = {"Sarajevo", "Banja Luka", "Zenica", "Mostar", "Tuzla", "Prijedor" },
+  },
+  Cabo Verde = {
+    Cities = {"Praia", "Mindelo" },
+  },
+  Timor-Leste = {
+    Cities = {"Dili" },
+  },
+  Antarctica = {
+    Cities = {"McMurdo", "Vostok", "Showa", "Marambio", "Mawson" },
+  },
+  Colombia = {
+    Cities = {"Bogota", "Medellín", "Cali", "Barranquilla", "Bucaramanga", "Cartagena", "Cúcuta", "Soledad", "Pereira", "Bello", "Santa Marta", "Ibagué", "Pasto", "Manizales", "Villavicencio", "Neiva", "Armenia", "Valledupar", "Montería", "Sincelejo", "Popayán", "Buenaventura", "Barrancabermeja", "Tuluá", "Tunja", "Cartago", "Riohacha", "Ciénaga", "Florencia", "Girardot", "Sogamoso", "Ipiales", "Duitama", "Magangué", "Quibdó", "Tumaco", "Ocaña", "Arauca", "Sabanalarga", "Yopal", "El Carmen de Bolívar", "Leticia", "San Andrés", "Garzón", "El Banco", "Chiquinquirá", "Pamplona", "Lorica", "Turbo", "Arjona", "Honda", "Yarumal", "Puerto Berrío", "Túquerres", "Tame", "Tolú", "Socorro", "Ayapel", "Campoalegre", "San José del Guaviare", "Mocoa", "Sonsón", "Puerto López", "San Martín", "Guapi", "Inírida", "Mitú" },
+  },
+  Montenegro = {
+    Cities = {"Podgorica", "Niksic", "Herceg Novi", "Pljevlja", "Bar" },
+  },
+  Curacao = {
+    Cities = {"Willemstad" },
+  },
+  Bermuda = {
+    Cities = {"Hamilton" },
+  },
+  Hungary = {
+    Cities = {"Budapest", "Miskolc", "Debrecen", "Szeged", "Pécs", "Nyíregyháza", "Székesfehérvár", "Győr", "Kecskemét", "Szombathely", "Szolnok", "Kaposvár", "Tatabánya", "Békéscsaba", "Veszprém", "Zalaegerszeg", "Eger", "Salgótarján", "Vác", "Szekszárd" },
+  },
+  Zambia = {
+    Cities = {"Lusaka", "Kitwe", "Ndola", "Kasama", "Kabwe", "Chingola", "Livingstone", "Mufulira", "Luanshya", "Chipata", "Chililabombwe", "Solwezi", "Mazabuka", "Mongu", "Kafue", "Choma", "Mansa", "Kapiri Mposhi", "Mpika", "Nchelenge", "Kawambwa", "Mbala", "Sesheke", "Mumbwa", "Kaoma", "Chinsali", "Mwinilunga", "Lundazi", "Senanga", "Kalabo", "Zambezi", "Kasempa" },
+  },
+  Tokelau = {
+    Cities = {"Atafu" },
+  },
+  British Virgin Islands = {
+    Cities = {"Road Town" },
+  },
+  Antigua And Barbuda = {
+    Cities = {"Saint John's", "Codrington" },
+  },
+  Hong Kong = {
+    Cities = {"Hong Kong" },
+  },
+  Ghana = {
+    Cities = {"Accra", "Kumasi", "Tamale", "Sekondi", "Tema", "Obuasi", "Koforidua", "Cape Coast", "Ho", "Bolgatanga", "Wa", "Bawku", "Sunyani", "Nkawkaw", "Berekum", "Winneba", "Yendi" },
+  },
+  Philippines = {
+    Cities = {"Manila", "Quezon City", "Davao", "Cagayan de Oro", "General Santos", "Bacolod", "Cebu", "Zamboanga", "Naga", "Iligan", "Baguio City", "Batangas", "Pasay City", "Iloilo", "Legazpi", "Angeles", "Olongapo", "Cadiz", "Tacloban", "Cotabato", "San Pablo", "Cabanatuan", "Laoag", "Butuan", "Tarlac", "Ormac", "Dagupan", "Pagadian", "Puerto Princesa", "Tuguegarao", "Roxas", "Ozamis", "Surigao", "Calbayog", "Vigan", "Tagum", "San Carlos" },
+  },
+  Bolivia = {
+    Cities = {"Santa Cruz", "La Paz", "Cochabamba", "Oruro", "Santa Ana", "Quillacollo", "Sucre", "Potosí", "Tarija", "Montero", "Trinidad", "Riberalta", "Cobija", "Villazón", "Bermejo", "Guayaramerín", "Viacha", "Tupiza", "Llallagua", "Camiri", "Punata", "San Ignacio", "Puerto Suárez", "San Borja", "Villamontes", "Cliza", "Ascension", "Uyuni", "Rurrenabaque", "Portachuelo", "Puerto Quijarro", "Roboré", "San Jose", "Challapata", "Achacachi", "Vallegrande", "Aiquile", "Reyes", "San Ramón", "San Carlos", "San Matias" },
+  },
+  Lebanon = {
+    Cities = {"Beirut", "Trablous", "Saida", "Nabatiye et Tahta", "Zahlé", "B'abda", "Tyre" },
+  },
+  Azerbaijan = {
+    Cities = {"Baku", "Ganca", "Sumqayt", "Naxcivan", "Ali Bayramli", "Saki", "Lankaran", "Stepanakert", "Yevlax", "Kapan", "Goycay", "Tovuz", "Qabala", "Gadabay", "Goranboy", "Oğuz", "Horadiz", "Khachmaz" },
+  },
+  Guam = {
+    Cities = {"Maina" },
+  },
+  Egypt = {
+    Cities = {"Cairo", "Alexandria", "El Giza", "Ismaïlia", "Bur Said", "Luxor", "El Mansura", "Sohag", "Suez", "El Minya", "Damanhûr", "Beni Suef", "Asyut", "Tanta", "El Faiyum", "Aswan", "Kom Ombo", "Qena", "Dumyat", "Zagazig", "Mallawi", "Rashid", "Shibin el Kom", "El Arish", "Benha", "Hurghada", "Samalut", "Kafr el Sheikh", "Girga", "Matruh", "Isna", "Beni Mazar", "El Kharga", "Bur Safaga", "El Tur", "Siwa", "El Daba", "El Alamein", "Salum", "Qasr Farafra", "Ain Sokhna", "Ras Gharib", "Shalateen", "Abu Ramad" },
+  },
+  Turks And Caicos Islands = {
+    Cities = {"Grand Turk" },
+  },
+  Turkey = {
+    Cities = {"Istanbul", "Ankara", "İzmir", "Bursa", "Adana", "Gaziantep", "Konya", "Tarsus", "Antalya", "Trabzon", "Diyarbakır", "Samsun", "Kayseri", "Eskişehir", "İzmit", "Malatya", "Şanlıurfa", "Erzurum", "Kahramanmaraş", "Denizli", "Van", "Antakya", "Batman", "İskenderun", "Rize", "Elâzığ", "Sivas", "Balıkesir", "Adapazarı", "Manisa", "Adıyaman", "Kırıkkale", "Aydın", "Kütahya", "Corum", "Isparta", "Afyon", "Zonguldak", "Ordu", "Uşak", "Nusaybin", "Tokat", "Erzincan", "Karabük", "Edirne", "Tekirdağ", "Karaman", "Siirt", "Giresun", "Bafra", "Bolu", "Kırşehir", "Samandagi", "Polatlı", "Ereğli", "Niğde", "Lüleburgaz", "Yozgat", "Ağrı", "Çanakkale", "Amasya", "Muş", "Kilis", "Bingöl", "Hakkâri", "Kars", "Söke", "Nevşehir", "Tatvan", "Çankırı", "Mardin", "Kastamonu", "Burdur", "Bitlis", "Kırklareli", "Muğla", "Bilecik", "Sinop", "Artvin", "Gümüşhane", "Tunceli", "Manavgat" },
+  },
+  Suriname = {
+    Cities = {"Paramaribo", "Cottica", "Nieuw Nickerie", "Brokopondo", "Moengo" },
+  },
+  Yemen = {
+    Cities = {"Sanaa", "Aden", "Al Hudaydah", "Taizz", "Al Mukalla", "Ibb", "Hajjah", "Dhamar", "Zabīd", "Sadah", "Saywun", "Lahij", "Ash Shihr", "Rida", "Al Bayda", "'Ataq", "Al Ghaydah", "Marib", "Hadiboh", "Lawdar" },
+  },
+  Namibia = {
+    Cities = {"Windhoek", "Rundu", "Walvis Bay", "Swakopmund", "Rehoboth", "Ongwediva", "Katima Mulilo", "Otjiwarongo", "Grootfontein", "Okahandja", "Keetmanshoop", "Gobabis", "Lüderitz", "Tsumeb", "Mariental", "Oshikango", "Omaruru", "Bethanie", "Usakos", "Oranjemund", "Karibib", "Outjo", "Karasburg", "Opuwo" },
+  },
+  Guyana = {
+    Cities = {"Georgetown", "New Amsterdam", "Linden", "Corriverton", "Bartica", "Lethem" },
+  },
+  Palestine = {
+    Cities = {"East Jerusalem", "Gaza", "Hebron", "Nablus", "Ramallah" },
+  },
+  Trinidad And Tobago = {
+    Cities = {"Port-of-Spain", "San Fernando" },
+  },
+  Serbia = {
+    Cities = {"Belgrade", "Niš", "Novi Sad", "Kragujevac", "Čačak", "Subotica", "Zrenjanin", "Pristina", "Prizren", "Ferizaj", "Valjevo", "Šabac" },
+  },
+  Brunei = {
+    Cities = {"Bandar Seri Begawan" },
+  },
+  India = {
+    Cities = {"Mumbai", "Delhi", "Kolkata", "Chennai", "Bangalore", "Hyderabad", "Ahmedabad", "Haora", "Pune", "Surat", "Kanpur", "Jaipur", "Lucknow", "Nagpur", "Patna", "Indore", "Vadodara", "Bhopal", "Coimbatore", "Ludhiana", "Agra", "Kalyan", "Vishakhapatnam", "Kochi", "Nasik", "Meerut", "Faridabad", "Varanasi", "Ghaziabad", "Asansol", "Jamshedpur", "Madurai", "Jabalpur", "Rajkot", "Dhanbad", "Amritsar", "Warangal", "Allahabad", "Srinagar", "Vijayawada", "Aurangabad", "Bhilai", "Sholapur", "Ranchi", "Jodhpur", "Guwahati", "Chandigarh", "Gwalior", "Thiruvananthapuram", "Kozhikode", "Tiruchirappalli", "Hubli", "Mysore", "Raipur", "Salem", "Jullundur", "Bhubaneshwar", "Kota", "Jhansi", "Bareilly", "Aligarh", "Bhiwandi", "Jammu", "Moradabad", "Mangalore", "Kolhapur", "Amravati", "Dehra Dun", "Malegaon", "Nellore", "Gorakhpur", "Shimoga", "Tiruppur", "Raurkela", "Nanded", "Belgaum", "Sangli", "Chandrapur", "Ajmer", "Cuttack", "Bikaner", "Bhavnagar", "Hisar", "Bilaspur", "Tirunelveli", "Guntur", "Siliguri", "Ujjain", "Davangere", "Akola", "Saharanpur", "Gulbarga", "Bhatpara", "Dhule", "Udaipur", "Bellary", "Tuticorin", "Kurnool", "Gaya", "Sikar", "Tumkur", "Kollam", "Ahmednagar", "Bhilwara", "Nizamabad", "Parbhani", "Shillong", "Latur", "Rajapalaiyam", "Bhagalpur", "Muzaffarnagar", "Muzaffarpur", "Mathura", "Patiala", "Sagar", "Brahmapur", "Shahjahanpur", "New Delhi", "Rohtak", "Sambalpur", "Ratlam", "Firozabad", "Rajahmundry", "Barddhaman", "Bidar", "Rampur", "Kakinada", "Panipat", "Khammam", "Bhuj", "Karimnagar", "Tirupati", "Hospet", "Mandya", "Alwar", "Aizawl", "Bijapur", "Imphal", "Etawah", "Raichur", "Pathankot", "Chirala", "Sonipat", "Mirzapur", "Hapur", "Porbandar", "Bharatpur", "Pondicherry", "Karnal", "Nagercoil", "Thanjavur", "Pali", "Agartala", "Ongole", "Puri", "Dindigul", "Haldia", "Bulandshahr", "Purnia", "Proddatur", "Gurgaon", "Burhanpur", "Gandhinagar", "Machilipatnam", "Bhiwani", "Nandyal", "Bhusawal", "Bahraich", "Tonk", "Sirsa", "Vizianagaram", "Vellore", "Alappuzha", "Simla", "Medinipur", "Hindupur", "Baramula", "Fatehpur", "Dibrugarh", "Sitapur", "Navsari", "Budaun", "Cuddalore", "Hoshiarpur", "Kanchipuram", "Faizabad", "Silchar", "Ambala", "Krishnanagar", "Kolar", "Kumbakonam", "Tiruvannamalai", "Pilibhit", "Abohar", "Port Blair", "Alipur Duar", "Hathras", "Valparai", "Aurangabad", "Kohima", "Gangtok", "Karur", "Jorhat", "Panaji", "Sopore", "Tezpur", "Itanagar", "Daman", "Silvassa", "Diu", "Dispur", "Kavaratti" },
+  },
+  Burundi = {
+    Cities = {"Bujumbura", "Muyinga", "Ruyigi", "Gitega", "Ngozi", "Rutana", "Bururi", "Makamba", "Kayanza", "Muramvya", "Bubanza", "Karusi", "Cankuzo", "Kirundo" },
+  },
+  Mozambique = {
+    Cities = {"Maputo", "Matola", "Beira", "Nampula", "Chimoio", "Nacala", "Quelimane", "Tete", "Xai-Xai", "Maxixe", "Inhambane", "Pemba", "Lichinga", "Dondo", "Cuamba", "Montepuez", "Mocuba", "Angoche", "Mocambique", "Moatize", "Mocimboa", "Macia", "Marrupa", "Nicuadala" },
+  },
+  Malawi = {
+    Cities = {"Lilongwe", "Blantyre", "Mzuzu", "Mangochi", "Zomba", "Salima", "Nkhotakota", "Karonga", "Chiromo", "Nkhata Bay", "Nsanje", "Mzimba", "Mchinji", "Mulanje", "Dedza", "Chitipa", "Mwanza", "Ntcheu" },
+  },
+  Armenia = {
+    Cities = {"Yerevan", "Gyumri", "Vanadzor", "Gavarr", "Artashat", "Ashtarak", "Ijevan", "Yeghegnadzor" },
+  },
+  United States = {
+    Cities = {"New York", "Los Angeles", "Chicago", "Miami", "Dallas", "Philadelphia", "Houston", "Washington", "Atlanta", "Boston", "Phoenix", "San Francisco", "Seattle", "Detroit", "San Diego", "Minneapolis", "Tampa", "Denver", "Brooklyn", "Queens", "Baltimore", "Saint Louis", "Riverside", "Las Vegas", "Portland", "San Antonio", "Sacramento", "San Jose", "Orlando", "Cleveland", "Pittsburgh", "Manhattan", "Cincinnati", "Austin", "Kansas City", "Indianapolis", "Columbus", "Virginia Beach", "Bronx", "Charlotte", "Milwaukee", "Providence", "Jacksonville", "Memphis", "Nashville", "Salt Lake City", "Richmond", "New Orleans", "Raleigh", "Louisville", "Oklahoma City", "Bridgeport", "Buffalo", "Hartford", "Tucson", "Fort Worth", "El Paso", "Honolulu", "McAllen", "Omaha", "Albuquerque", "Birmingham", "Dayton", "Rochester", "Sarasota", "Fresno", "Allentown", "Tulsa", "Concord", "Springfield", "Colorado Springs", "Cape Coral", "Charleston", "Mission Viejo", "Albany", "Grand Rapids", "Baton Rouge", "Knoxville", "Ogden", "Columbia", "Bakersfield", "Akron", "New Haven", "Provo", "Worcester", "Toledo", "Mesa", "Palm Bay", "Wichita", "Des Moines", "Murrieta", "Staten Island", "Long Beach", "Greenville", "Little Rock", "Harrisburg", "Madison", "Denton", "Reno", "Port Saint Lucie", "Oakland", "Winston-Salem", "Syracuse", "Chattanooga", "Indio", "Lancaster", "Spokane", "Durham", "Palm Coast", "Arlington", "Poughkeepsie", "Stockton", "Augusta", "Scranton", "Oxnard", "Bonita Springs", "Boise", "Modesto", "Youngstown", "Kissimmee", "Aurora", "Pensacola", "Anaheim", "Lancaster", "Victorville", "Jackson", "Corpus Christi", "Flint", "Fayetteville", "Santa Ana", "Greensboro", "Fort Wayne", "Ann Arbor", "Mobile", "Santa Rosa", "Lansing", "Fayetteville", "Lexington", "Huntsville", "Saint Paul", "Fort Collins", "Antioch", "Asheville", "Trenton", "Henderson", "Shreveport", "Davenport", "Springfield", "Lakeland", "Rockford", "Round Lake Beach", "Plano", "Newark", "Lincoln", "Savannah", "South Bend", "Canton", "Lafayette", "Chula Vista", "Santa Clarita", "Irvine", "Peoria", "Reading", "Jersey City", "Eugene", "Columbus", "Lubbock", "Saint Petersburg", "Laredo", "Anchorage", "Montgomery", "Salem", "Myrtle Beach", "Tallahassee", "Chandler", "Scottsdale", "Glendale", "Norfolk", "Concord", "Killeen", "Atlantic City", "Wilmington", "North Las Vegas", "Irving", "Chesapeake", "Gilbert", "Hialeah", "Garland", "Evansville", "Fremont", "York", "Winter Haven", "Visalia", "Nashua", "Kennewick", "Brownsville", "McKinney", "Gulfport", "Appleton", "Thousand Oaks", "San Bernardino", "Roanoke", "Hickory", "Kalamazoo", "Bremerton", "Avondale", "Tacoma", "Fontana", "Green Bay", "Portland", "Amarillo", "Moreno Valley", "College Station", "Norwich", "Santa Barbara", "Fargo", "Aurora", "Glendale", "Yonkers", "Huntington Beach", "Gainesville", "Huntington", "Olympia", "Salinas", "Deltona", "Waterbury", "Grand Prairie", "Erie", "North Port", "Overland Park", "Hagerstown", "Waco", "Spartanburg", "Cedar Rapids", "Tempe", "Newport News", "Lorain", "Clarksville", "Fort Lauderdale", "Gastonia", "Sioux Falls", "High Point", "Danbury", "Rancho Cucamonga", "Santa Cruz", "Oceanside", "Hemet", "Garden Grove", "Vancouver", "Ontario", "Vallejo", "Nampa", "Elk Grove", "Pembroke Pines", "Medford", "Corona", "Ocala", "Fredericksburg", "Peoria", "Frisco", "Marysville", "Cary", "Murfreesboro", "Muskegon", "Springfield", "Manchester", "Hayward", "Lafayette", "Port Arthur", "Palmdale", "Alexandria", "Champaign", "Gainesville", "Lakewood", "Pasadena", "Lake Charles", "Tuscaloosa", "Sunnyvale", "Pomona", "Binghamton", "Frederick", "Hollywood", "Kansas City", "Escondido", "New Bedford", "Topeka", "Odessa", "Warner Robins", "Joliet", "Beaumont", "Panaman City", "Torrance", "Elkhart", "Naperville", "Paterson", "Charleston", "Leesburg", "Houma", "Fairfield", "Mesquite", "Merced", "Midland", "Pasadena", "Bellevue", "Pueblo", "Tyler", "Fullerton", "Orange", "Santa Maria", "Columbia", "Miramar", "Yuma", "Athens", "Harlingen", "Thornton", "West Valley City", "Olathe", "Hampton", "Grand Junction", "Warren", "Bloomington", "Las Cruces", "Yakima", "Carrollton", "Mauldin", "Surprise", "Roseville", "Sterling Heights", "Greeley", "Racine", "Coral Springs", "Stamford", "Elizabeth", "Kent", "Greenville", "Simi Valley", "Boulder", "Johnson City", "Burlington", "Santa Clara", "Fort Smith", "Kenosha", "Bellingham", "Lynchburg", "South Lyon", "Billings", "Berkeley", "Round Rock", "Duluth", "Redding", "Yuba City", "Saginaw", "Leominster", "Seaside", "Monroe", "Arvada", "Independence", "Iowa City", "Kingsport", "Dover", "El Monte", "Rock Hill", "Abilene", "Rochester", "Norman", "Clearwater", "Utica", "Bloomington", "Carlsbad", "Westminster", "Texas City", "West Jordan", "Saint Cloud", "Pearland", "Richardson", "Downey", "Miami Gardens", "Temecula", "Costa Mesa", "Waterloo", "Elgin", "Coeur d'Alene", "El Centro", "Gresham", "Saint George", "Gilroy", "Inglewood", "Cambridge", "Lowell", "Santa Fe", "Centennial", "Richmond", "Pompano Beach", "North Charleston", "Pottstown", "Everett", "Burlington", "West Palm Beach", "West Covina", "Broken Arrow", "Salisbury", "Sioux City", "Eau Claire", "Clovis", "Daly City", "Norwalk", "Turlock", "Sandy Springs", "Hillsboro", "Lewisville", "Burbank", "Chico", "San Mateo", "El Cajon", "Rialto", "La Crosse", "League City", "Davie", "Jacksonville", "Vista", "Holland", "Renton", "Longview", "Temple", "San Angelo", "Logan", "Charlottesville", "Bend", "Wichita Falls", "Allen", "Vacaville", "Sparks", "Longmont", "Middletown", "Beaverton", "Compton", "Orem", "Bismarck", "Federal Way", "Spokane Valley", "Idaho Falls", "Boca Raton", "Rio Rancho", "Lawrence", "Manteca", "Brockton", "Meridian", "Mandeville", "South Gate", "San Marcos", "Portsmouth", "Vineland", "Roswell", "Dearborn", "Slidell", "Tracy", "Prescott Valley", "Livonia", "Sunrise", "Hesperia", "Quincy", "Blacksburg", "Terre Haute", "Carson", "Plantation", "Lynn", "Florence", "Santa Monica", "Lawton", "Lafayette", "Westminster", "Dover", "Albany", "Portsmouth", "Edmond", "Carmel", "Hanford", "San Leandro", "Fishers", "Livermore", "Decatur", "Lees Summit", "Suffolk", "Muncie", "Newton", "Missoula", "Fall River", "Rapid City", "Menifee", "Norwalk", "Jackson", "Auburn", "Waukegan", "Sugar Land", "Hawthorne", "Bowling Green", "Chino", "Napa", "Kirkland", "Dalton", "Edinburg", "Citrus Heights", "State College", "Whittier", "Newport Beach", "Anderson", "O'Fallon", "Joplin", "Clifton", "Alhambra", "Bloomington", "Hoover", "Redwood City", "Mount Pleasant", "Johns Creek", "Troy", "Bryan", "Lake Forest", "Buena Park", "Springfield", "Largo", "Alexandria", "Cicero", "Conroe", "Madera", "Pleasanton", "Hattiesburg", "Williamsburg", "Warwick", "Westland", "Somerville", "Melbourne", "Lakewood", "Farmington Hills", "Cranston", "Texarkana", "Alton", "Saint Joseph", "Mountain View", "Tustin", "Lawrence", "Valdosta", "Deerfield Beach", "Brooklyn Park", "New Rochelle", "Parma", "Cheyenne", "Kokomo", "Alameda", "Chino Hills", "Kankakee", "Newark", "Springdale", "Florence", "Anderson", "Wheeling", "Flagstaff", "Lebanon", "Bellflower", "Milpitas", "Auburn", "Pharr", "Folsom", "Watsonville", "Goodyear", "Plymouth", "Battle Creek", "Fort Myers", "Hammond", "Elizabethtown", "Altoona", "Loveland", "Lake Jackson", "Upland", "Porterville", "Baldwin Park", "Gary", "Anniston", "Perris", "Saint Augustine", "Baytown", "Layton", "San Ramon", "Boynton Beach", "Wyoming", "Davis", "Arlington Heights", "Hilton Head Island", "Union City", "Bethlehem", "Oshkosh", "Evanston", "Franklin", "Zephyrhills", "Missouri City", "Bolingbrook", "Schaumburg", "Camden", "Wausau", "Camarillo", "New Braunfels", "Jackson", "Flower Mound", "Sumter", "Mansfield", "Rochester Hills", "Morgantown", "Southfield", "Owensboro", "Winchester", "San Marcos", "Jonesboro", "New Britain", "Apple Valley", "Harrisonburg", "Waukesha", "Conway", "Rancho Cordova", "Dothan", "Lauderhill", "Cleveland", "Lodi", "Wilmington", "Pawtucket", "Wenatchee", "Redlands", "Lynwood", "Pittsburg", "Passaic", "Pasco", "Bristol", "Pocatello", "Sheboygan", "Janesville", "Lima", "Weston", "West Bend", "North Richland Hills", "Decatur", "Hammond", "Maple Grove", "Union City", "Saint Charles", "Casper", "Walnut Creek", "South Jordan", "Daphne", "Cedar Park", "Dubuque", "Victoria", "Woodbury", "Palatine", "Mount Vernon", "Carbondale", "Bossier City", "Mount Vernon", "Yorba Linda", "Weirton", "Homestead", "Redondo Beach", "Ames", "Gaithersburg", "Bay City", "DeKalb", "Hanover", "Delray Beach", "Georgetown", "Kenner", "Palo Alto", "Fairbanks", "South San Francisco", "Saratoga Springs", "Petaluma", "Rockville", "Sherman", "Daytona Beach", "Broomfield", "Grand Forks", "Eagan", "Los Lunas", "North Little Rock", "Bayonne", "Great Falls", "Rocky Mount", "Mansfield", "Corvallis", "Michigan City", "Alpharetta", "Parkersburg", "Laguna Niguel", "San Clemente", "Tamarac", "Shawnee", "Longview", "Elmira", "Rogers", "Schenectady", "Johnstown", "East Orange", "Buckeye", "West Des Moines", "Skokie", "Lake Elsinore", "Eden Prairie", "Wellington", "Jupiter", "Glens Falls", "Sammamish", "Pico Rivera", "Beloit", "Monessen", "Montebello", "Encinitas", "Waltham", "Blaine", "Haverhill", "Rocklin", "Tulare", "Council Bluffs", "Sebring", "Redmond", "Gadsden", "San Luis Obispo", "Coon Rapids", "North Miami", "Hamilton", "Rowlett", "Lakeville", "Springfield", "Beckley", "La Habra", "Moore", "Burnsville", "Taylor", "Eastvale", "National City", "Lehi", "Mankato", "Port Orange", "Monterey Park", "Romee", "Marietta", "Malden", "Lakewood", "Cupertino", "Brentwood", "Albany", "Taylorsville", "Benton Harbor", "Noblesville", "Bristol", "Morristown", "West Allis", "Gardena", "Goldsboro", "La Mesa", "Pontiac", "Meriden", "Dublin", "Coconut Creek", "Midland", "Bangor", "Chapel Hill", "Pflugerville", "Novi", "Woodland", "Royal Oak", "San Rafael", "Huntington Park", "Orland Park", "Lewiston", "Ankeny", "Bartlett", "Sanford", "Arcadia", "Jefferson City", "Columbus", "Bowie", "White Plains", "Des Plaines", "Staunton", "Doral", "Margate", "Santee", "Hot Springs", "Castle Rock", "Casa Grande", "Carson City", "Middletown", "Manhattan", "Midwest City", "Saint Peters", "Medford", "Titusville", "Hendersonville", "New Brunswick", "Taunton", "Tinley Park", "Diamond Bar", "Smyrna", "Pittsfield", "Greenwood", "Fountain Valley", "Walla Walla", "Oak Lawn", "East Stroudsburg", "Novato", "Chicopee", "Kingston", "Dearborn Heights", "Berwyn", "Bradenton", "Hempstead", "Watertown", "Shoreline", "Kettering", "Hazleton", "Grants Pass", "Cape Girardeau", "Cartersville", "Williamsport", "Ithaca", "Richland", "Highland", "Paramount", "Commerce City", "Huntersville", "Fond du Lac", "Euless", "Colton", "Lake Havasu City", "Arroyo Grande", "West Haven", "Rosemead", "Blue Springs", "Hoboken", "Normal", "Brunswick", "Mount Prospect", "Eagle Pass", "Cathedral City", "Delano", "Palm Beach Gardens", "Elyria", "Grand Island", "Lewiston", "Bellevue", "Twin Falls", "Wheaton", "West New York", "Yucaipa", "Southaven", "Revere", "Caldwell", "Beaufort", "Lompoc", "West Sacramento", "Lenexa", "Bloomsburg", "Leesburg", "DeSoto", "City of Milford", "Perth Amboy", "Peabody", "Brookhaven", "Bozeman", "Minnetonka", "Palm Desert", "Placentia", "Pinellas Park", "Grapevine", "Apple Valley", "Chambersburg", "Sierra Vista", "Tigard", "Glendora", "Florissant", "Oak Park", "Hoffman Estates", "Kentwood", "Hinesville", "New Bern", "Aliso Viejo", "Edina", "Parker", "Burien", "Minot", "Coral Gables", "Plainfield", "Cerritos", "Lakewood", "Poway", "Cedar City", "Pierre", "Guymon", "Winnemucca", "Lamar", "Presque Isle", "West Wendover", "San Juan", "Bayamon", "Caguas", "Ponce", "Mayaguez", "Unalaska", "Juneau", "Marquette" },
+  },
+  Niue = {
+    Cities = {"Alofi" },
+  },
+  Guinea-Bissau = {
+    Cities = {"Bissau", "Bafatá", "Gabú", "Bolama", "Cacheu", "Catió", "Farim" },
+  },
+  Turkmenistan = {
+    Cities = {"Ashgabat", "Türkmenabat", "Daşoguz", "Mary", "Balkanabat", "Türkmenbaşy", "Tejen", "Gyzlarbat", "Buzmeyin", "Kaka", "Atamyrat", "Koneurgench" },
+  },
+  Lithuania = {
+    Cities = {"Vilnius", "Kaunas", "Klaipėda", "Šiauliai", "Panevežys" },
+  },
+  Estonia = {
+    Cities = {"Tallinn", "Tartu", "Narva", "Kohtla-Järve", "Pärnu", "Viljandi", "Haapsalu" },
+  },
+  Qatar = {
+    Cities = {"Doha" },
+  },
+  San Marino = {
+    Cities = {"San Marino" },
+  },
+  Luxembourg = {
+    Cities = {"Luxembourg", "Diekirch" },
+  },
+  Syria = {
+    Cities = {"Aleppo", "Damascus", "Hims", "Al Ladhiqiyah", "Douma", "Hamah", "Dayr az Zawr", "Ar Raqqah", "Tartus", "Dar'a", "Idlib", "Al Hasakah", "Manbij", "Al Qamishli", "Madinat ath Thawrah", "Abu Kamal", "As Suwayda", "Tadmur", "Ad Nabk", "Izaz", "Al-Sabe' Biyar" },
+  },
+  Solomon Islands = {
+    Cities = {"Honiara", "Gizo" },
+  },
+  Finland = {
+    Cities = {"Helsinki", "Tampere", "Turku", "Oulu", "Lahti", "Jyväskylä", "Kuopio", "Pori", "Lappeenranta", "Vaasa", "Joensuu", "Hämeenlinna", "Kokkola", "Mikkeli", "Rovaniemi", "Kouvola", "Savonlinna", "Kemi", "Porvoo", "Sodankylä", "Kemijärvi", "Mariehamn" },
+  },
+  Cuba = {
+    Cities = {"Havana", "Santiago de Cuba", "Camagüey", "Holguín", "Guantánamo", "Santa Clara", "Las Tunas", "Bayamo", "Pinar del Rio", "Cienfuegos", "Matanzas", "Ciego de Ávila", "Manzanillo", "Sancti Spíritus", "Palma Soriano", "Güines", "Artemisa", "Morón", "Colón", "Sagua la Grande", "Placetas", "Nuevitas", "Banes", "San Antonio de los Baños", "Caibarién", "Nueva Gerona" },
+  },
+  Denmark = {
+    Cities = {"København", "Århus", "Odense", "Aalborg", "Esbjerg", "Vejle", "Roskilde", "Viborg", "Svendborg", "Hillerød", "Frederikshavn", "Sorø" },
+  },
+  Sweden = {
+    Cities = {"Stockholm", "Göteborg", "Malmö", "Uppsala", "Västerås", "Örebro", "Linköping", "Helsingborg", "Jönköping", "Norrköping", "Umeå", "Karlstad", "Sundsvall", "Gävle", "Borås", "Växjö", "Halmstad", "Luleå", "Östersund", "Trollhättan", "Borlänge", "Falun", "Karlskrona", "Kalmar", "Kristianstad", "Skellefteå", "Örnsköldsvik", "Nyköping", "Visby", "Vannersborg", "Kiruna", "Härnösand", "Mariestad", "Bollnäs", "Storuman" },
+  },
+  Macedonia = {
+    Cities = {"Skopje", "Tetovo", "Bitola" },
+  },
+  Latvia = {
+    Cities = {"Riga", "Daugavpils", "Liepaga", "Jelgava", "Ventspils", "Rēzekne", "Smiltene" },
+  },
+  Chad = {
+    Cities = {"Ndjamena", "Bongor", "Sarh", "Abéché", "Moundou", "Kelo", "Pala", "Am Timan", "Doba", "Mongo", "Ati", "Laï", "Oum Hadjer", "Mao", "Faya Largeau", "Biltine" },
+  },
+  Rapa Nui = {
+    Cities = {"Hanga Roa" },
+  },
+  Benin = {
+    Cities = {"Cotonou", "Porto-Novo", "Djougou", "Parakou", "Kandi", "Lokossa", "Ouidah", "Abomey", "Natitingou" },
+  },
+  Albania = {
+    Cities = {"Tirana", "Elbasan", "Shkodër", "Durrës", "Vlorë", "Fier", "Korçë", "Berat", "Lushnjë", "Pogradec", "Gjirokastër", "Krujë", "Lezhë", "Kukës", "Burrel", "Sarandë", "Peshkopi", "Çorovodë", "Librazhd", "Tepelenë", "Gramsh", "Përmet", "Rrëshen", "Bajram Curri", "Ersekë", "Pukë" },
+  },
+  Australia = {
+    Cities = {"Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Newcastle", "Gold Coast", "Cranbourne", "Canberra", "Wollongong", "Geelong", "Cairns", "Townsville", "Albury", "Nowra", "Darwin", "Toowoomba", "Ballarat", "Bendigo", "Hobart", "Mackay", "Mandurah", "Launceston", "Rockhampton", "Coffs Harbour", "Wagga Wagga", "Bundaberg", "Port Macquarie", "Mildura", "Taree", "Orange", "Caloundra", "Tamworth", "Kalgoorlie", "Shepparton", "Mount Isa", "Tweed Heads", "Queanbeyan", "Melton", "Dubbo", "Caboolture", "Lismore", "Gladstone", "Warrnambool", "Sunbury", "Alice Springs", "Geraldton", "Bunbury", "Albany", "Hervey Bay", "Mount Gambier", "Armidale", "Whyalla", "Sale", "Katoomba", "Goulburn", "Maryborough", "Kwinana", "Burnie", "Echuca", "Devonport", "Roebourne", "Maitland", "Traralgon", "Murray Bridge", "Forster-Tuncurry", "Broken Hill", "Karratha", "Gawler", "Griffith", "Kingston", "Port Hedland", "Ballina", "Wangaratta", "Port Augusta", "Richmond", "Singleton", "Bongaree", "Port Lincoln", "Broome", "Horsham", "Port Pirie", "Warwick", "Kempsey", "Portland", "Gympie", "Muswellbrook", "Parkes", "Lithgow", "Bairnsdale", "Bowen", "Yeppoon", "Batemans Bay", "Kiama", "Busselton", "Innisfail", "Katherine", "Moranbah", "Grafton", "Dalby", "Charters Towers", "Emerald", "Swan Hill", "Ulladulla", "Colac", "Ayr", "Hamilton", "Kingaroy", "Inverell", "Moree", "Deniliquin", "Esperance", "Victor Harbor", "Young", "Carnarvon", "Leeton", "Gunnedah", "Narrabri", "Maryborough", "Stawell", "Atherton", "Cowra", "Byron Bay", "Tumut", "Cooma", "Merimbula", "Biloela", "Ingham", "Bathurst", "Ararat", "Wonthaggi", "Northam", "Kununurra", "Roma", "Mudgee", "Newman", "McMinns Lagoon" },
+  },
+  El Salvador = {
+    Cities = {"San Salvador", "Santa Ana", "San Miguel", "Sonsonate", "Nueva San Salvador", "Usulután", "Cojutepeque", "Zacatecoluca", "San Vicente", "Ahuachapán", "Chalatenango", "Sensuntepeque", "La Unión", "San Francisco Gotera" },
+  },
+  Belize = {
+    Cities = {"Belize City", "Orange Walk", "El Cayo", "Belmopan", "Dangriga", "Corozal", "Punta Gorda" },
+  },
+  Bulgaria = {
+    Cities = {"Sofia", "Plovdiv", "Varna", "Burgas", "Ruse", "Stara Zagora", "Pleven", "Sliven", "Dobrich", "Shumen", "Pernik", "Khaskovo", "Vratsa", "Turnovo", "Kyustendil", "Montana", "Lovec", "Razgrad" },
+  },
+  Norway = {
+    Cities = {"Oslo", "Bergen", "Stavanger", "Trondheim", "Bærum", "Drammen", "Skien", "Kristiansand", "Tromsø", "Ålesund", "Sandnes", "Haugesund", "Tønsberg", "Moss", "Bodø", "Arendal", "Hamar", "Gjøvik", "Mo i Rana", "Narvik", "Lillehammer", "Harstad", "Molde", "Alta", "Steinkjer", "Hammerfest", "Namsos", "Vossavangen", "Vadsø", "Longyearbyen" },
+  },
+  Kyrgyzstan = {
+    Cities = {"Bishkek", "Osh", "Jalal Abad", "Tokmak", "Kara Balta", "Karakol", "Naryn", "Balykchy", "Talas", "Toktogul", "Tash Komur", "Cholpon Ata", "At Bashy", "Kok Yangak", "Batken" },
+  },
+  Nepal = {
+    Cities = {"Kathmandu", "Lalitpur", "Hetauda", "Pokhara", "Biratnagar", "Birganj", "Dhangarhi", "Nepalganj", "Bhairawa", "Rajbiraj", "Baglung", "Dandeldhura", "Ilam", "Salyan", "Ramechhap", "Bhimphedi", "Jumla" },
+  },
+  Kenya = {
+    Cities = {"Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret", "Kitale", "Machakos", "Thika", "Kericho", "Malindi", "Kendu Bay", "Kilifi", "Sotik", "Garissa", "Kakamega", "Embu", "Bungoma", "Nyeri", "Meru", "Wajir", "Naivasha", "Voi", "Nanyuki", "Kisii", "Moyale", "Lamu", "Maralal", "Lodwar", "Eldama Ravine", "Marsabit", "Namanga", "Mwingi", "Witu" },
+  },
+  Spain = {
+    Cities = {"Madrid", "Barcelona", "Seville", "Bilbao", "Valencia", "Zaragoza", "Málaga", "Murcia", "Granada‎", "Vigo", "Las Palmas", "Palma", "La Coruña", "San Sebastián", "Santa Cruz de Tenerife", "Gijón", "Valladolid", "Córdoba", "Alicante", "Cádiz", "Pamplona", "Oviedo", "Vitoria", "Santander", "Cartagena", "Marbella", "Mataró", "Castello", "Almería", "Burgos", "Salamanca", "Albacete", "Huelva", "Logroño", "Melilla", "Badajoz", "León", "Tarragona", "Ourense", "Jaén", "Algeciras", "Santiago de Compostela", "Lorca", "Ceuta", "Toledo", "Guadalajara", "Linares", "Arrecife", "Mérida", "Huesca", "Jaca" },
+  },
+  Belgium = {
+    Cities = {"Brussels", "Antwerpen", "Liège", "Gent", "Charleroi", "Brugge", "Namur", "Mons", "Hasselt", "Arlon" },
+  },
+  Nicaragua = {
+    Cities = {"Managua", "León", "Chinandega", "Masaya", "Matagalpa", "Estelí", "Granada‎", "Juigalpa", "Jinotega", "Bluefields", "Puerto Cabezas", "Ocotal", "Rivas", "Jinotepe", "Boaco", "Somoto", "San Carlos", "San Juan del Sur" },
+  },
+  Peru = {
+    Cities = {"Lima", "Callao", "Arequipa", "Trujillo", "Chiclayo", "Iquitos", "Huancayo", "Piura", "Cusco", "Chimbote", "Pucallpa", "Tacna", "Ica", "Juliaca", "Ayacucho", "Sullana", "Huánuco", "Chincha Alta", "Cajamarca", "Cerro de Pasco", "Puno", "Tumbes", "Talara", "Chosica", "Huaraz", "Pisco", "Huacho", "Chulucanas", "Puerto Maldonado", "Paita", "Abancay", "Moquegua", "Ilo", "Tingo María", "Jaén", "Tarma", "Ferreñafe", "Mollendo", "Moyobamba", "Huancavelica", "Huaura", "Pacasmayo", "Juanjuí", "Sicuani", "La Oroya", "Pativilca", "Huamachuco", "Casma", "Tocache", "Chancay", "Chachapoyas", "Nasca", "Sechura", "Jauja", "Camaná", "Ayaviri", "Contamana", "Huanta", "Requena", "Huarmey", "Ilave", "Pimentel", "Satipo", "Junín", "San Ramon", "Chota", "Lamas", "Motupe", "Cajabamba", "Chilca", "Puquio", "Santiago", "Otuzco", "Salaverry", "Olmos", "Putina", "Urubamba", "Coracora", "Desaguadero" },
+  },
+  Mali = {
+    Cities = {"Bamako", "Sikasso", "Ségou", "Gao", "Mopti", "Koutiala", "Kayes", "Timbuktu", "Kati", "Markala", "Kita", "San", "Bougouni", "Djenné", "Banamba", "Bourem", "Bafoulabé", "Koulikoro", "Nara", "Kangaba", "Nioro du Sahel", "Ménaka", "Aguelhok", "Goundam", "Tessalit" },
+  },
+  Fiji = {
+    Cities = {"Suva", "Lautoka", "Nandi", "Labasa" },
+  },
+  Dominican Republic = {
+    Cities = {"Santo Domingo", "Santiago", "San Pedro de Macorís", "La Romana", "La Vega", "San Cristóbal", "San Francisco de Macorís", "Higuey", "Puerto Plata", "Barahona", "Bonao", "San Juan", "Baní", "Moca", "Azua", "Mao", "Salcedo", "Comendador", "Cotuí", "Hato Mayor", "Nagua", "Neiba", "El Seibo", "Monte Cristi", "Dajabón", "Sabaneta", "Monte Plata", "Samaná", "Pedernales", "Jimaní" },
+  },
+  Mauritania = {
+    Cities = {"Nouakchott", "Nema", "Nouadhibou", "Kiffa", "Zouirat", "Rosso", "Atar", "Tidjikdja", "Boutilimit", "Bogue", "Aleg", "Fderik" },
+  },
+  France = {
+    Cities = {"Paris", "Lyon", "Marseille", "Lille", "Nice", "Toulouse", "Bordeaux", "Rouen", "Strasbourg", "Nantes", "Metz", "Grenoble", "Toulon", "Montpellier", "Nancy", "Saint-Étienne", "Melun", "Le Havre", "Tours", "Clermont-Ferrand", "Orléans", "Mulhouse", "Rennes", "Reims", "Caen", "Angers", "Dijon", "Nîmes", "Limoges", "Aix-en-Provence", "Perpignan", "Biarritz", "Brest", "Le Mans", "Amiens", "Besançon", "Annecy", "Calais", "Poitier", "Versailles", "Lorient", "Béziers", "La Rochelle", "Roanne", "Bourges", "Arras", "Troyes", "Cherbourg", "Agen", "Brive", "Tarbes", "Ajaccio", "St.-Brieuc", "Nevers", "Vichy", "Dieppe", "Auxerre", "Bastia" },
+  },
+  Ecuador = {
+    Cities = {"Guayaquil", "Quito", "Cuenca", "Ambato", "Portoviejo", "Machala", "Manta", "Sangolquí", "Esmeraldas", "Riobamba", "Ibarra", "Loja", "Milagro", "Latacunga", "Tulcán", "Babahoyo", "Azogues", "Chone", "Salinas", "Jipijapa", "Tena", "Cayambe", "Guaranda", "Puyo", "Macas", "San Lorenzo", "Piñas", "San Gabriel", "Zamora", "Alausí", "Muisne", "Macará", "Valdez", "Santa Cruz", "Puerto Baquerizo Moreno" },
+  },
+  Saudi Arabia = {
+    Cities = {"Riyadh", "Jeddah", "Ad Damman", "Makkah", "Medina", "At Taif", "Al Hufuf", "Al Hillah", "Tabuk", "Buraydah", "Hail", "Najran", "Al-Qatif", "Al Mubarraz", "Al Kharj", "Yanbu al Bahr", "Hafar al Batin", "Al Jubayl", "Arar", "Abha", "Sakakah", "Jizan", "Az Zahran", "Qal at Bishah", "Rafha", "Al Wajh", "As Sulayyil", "Dawmat al Jandal", "An Nabk", "Al Quwayiyah" },
+  },
+  Guatemala = {
+    Cities = {"Guatemala", "Quetzaltenango", "El Progreso", "San Luis", "Escuintla", "Huehuetenango", "Chimaltenango", "Totonicapán", "Cobán", "Mazatenango", "Puerto Barrios", "Jutiapa", "Jalapa", "Sololá", "Chiquimula", "Salamá", "Antigua Guatemala", "Flores", "Retalhuleu", "Zacapa", "San Marcos", "Santa Cruz Del Quiche", "San Jose", "Cuilapa", "Livingston", "La Libertad" },
+  },
+  Russia = {
+    Cities = {"Moscow", "St. Petersburg", "Novosibirsk", "Yekaterinburg", "Nizhny Novgorod", "Samara", "Omsk", "Kazan", "Chelyabinsk", "Rostov", "Ufa", "Perm", "Volgograd", "Krasnoyarsk", "Voronezh", "Saratov", "Tolyatti", "Krasnodar", "Ulyanovsk", "Izhevsk", "Yaroslavl", "Barnaul", "Vladivostok", "Irkutsk", "Khabarovsk", "Makhachkala", "Orenburg", "Novokuznetsk", "Tomsk", "Ryazan", "Tyumen", "Lipetsk", "Penza", "Astrakhan", "Tula", "Kemerovo", "Naberezhnyye Chelny", "Kirov", "Cheboksary", "Kaliningrad", "Bryansk", "Ivanovo", "Magnitogorsk", "Kursk", "Tver", "Surgut", "Nizhny Tagil", "Vladikavkaz", "Stavropol", "Ulan Ude", "Archangel", "Belgorod", "Kurgan", "Kaluga", "Orel", "Sochi", "Yoshkar Ola", "Volzhskiy", "Smolensk", "Podolsk", "Murmansk", "Vladimir", "Cherepovets", "Chita", "Naltchik", "Saransk", "Tambov", "Vologda", "Taganrog", "Kostroma", "Komsomolsk na Amure", "Prokopyevsk", "Sterlitamak", "Petrozavodsk", "Dzerzhinsk", "Orsk", "Bratsk", "Nizhenvartovsk", "Angarsk", "Novorossiysk", "Yakutsk", "Nizhnekamsk", "Syktyvkar", "Noginsk", "Noginsk", "Starsy Oskol", "Groznyy", "Kolpino", "Shakhty", "Blagoveshchensk", "Velikiy Novgorod", "Rybinsk", "Biysk", "Pskov", "Balakovo", "Armavir", "Engels", "Severodvinsk", "Zlatoust", "Syzran", "Petropavlovsk Kamchatskiy", "Kamensk Uralskiy", "Yuzhno Sakhalinsk", "Berezniki", "Volgodonsk", "Miass", "Abakan", "Novocherkassk", "Norilsk", "Rubtsovsk", "Salavat", "Nakhodka", "Nakhodka", "Maykop", "Ussuriysk", "Kovrov", "Novokuybishevsk", "Kolomna", "Pyatigorsk", "Arzamas", "Almetyevsk", "Orekhovo-Zuevo", "Serpukhov", "Nevinnomyssk", "Pervouralsk", "Kislovodsk", "Dimitrovgrad", "Murom", "Novomoskovsk", "Kamyshin", "Neftekamsk", "Achinsk", "Vyborg", "Cherkessk", "Yelets", "Tobolsk", "Nefteyugansk", "Noyabrsk", "Bataysk", "Sergiyev Posad", "Leninsk Kuznetsky", "Kyzyl", "Oktyabrskiy", "Obninsk", "Chapayevsk", "Elista", "Kandalaksha", "Novotroitsk", "Derbent", "Kiselevsk", "Velikiye Luki", "Ukhta", "Kansk", "Sarapul", "Solikamsk", "Glazov", "Ust-Ulimsk", "Zelenodolsk", "Novoshakhtinsk", "Tuapse", "Votkinsk", "Serov", "Balashov", "Zheleznogorsk", "Kuznetsk", "Magadan", "Novy Urengoy", "Michurinsk", "Nazran", "Kineshma", "Bugulma", "Novoaltaysk", "Gatchina", "Kirovo-Chepetsk", "Yegoryevsk", "Yeysk", "Buzuluk", "Shchekino", "Usolye Sibirskoye", "Yurga", "Anzhero Sudzhensk", "Troitsk", "Kaspiysk", "Asbest", "Klin", "Vorkuta", "Kropotkin", "Shadrinsk", "Birobidzhan", "Kamensk Shakhtinskiy", "Buynaksk", "Georgievsk", "Chusovoy", "Chernogorsk", "Volsk", "Belogorsk", "Tuymazy", "Borisoglebsk", "Khanty Mansiysk", "Ishim", "Oktyabrskiy", "Apatity", "Aleksin", "Kungur", "Klintsy", "Neryungri", "Leninogorsk", "Lesosibirsk", "Polevskoy", "Kumertau", "Krasnoturinsk", "Tikhoretsk", "Svobodnyy", "Rzhev", "Balakhna", "Belebey", "Chistopol", "Tikhvin", "Labinsk", "Iskitim", "Vyska", "Sibay", "Salsk", "Shuya", "Zima", "Kotlas", "Gorno Altaysk", "Mikhaylovka", "Solnechnogorsk", "Arsenyev", "Borovichi", "Cheremkhovo", "Roslavl", "Nizhnyaya Tura", "Sayanogorsk", "Gelendzhik", "Vyazma", "Krasnokamensk", "Severomorsk", "Vyshnniy Volochek", "Buguruslan", "Livny", "Krasnokamsk", "Tayshet", "Nyagan", "Kimry", "Tulun", "Kyshtym", "Otradnyy", "Kanash", "Monchegorsk", "Morshansk", "Ruzayevka", "Verkhnyaya Salda", "Slobodskoy", "Megion", "Torzhok", "Belaya Kalitva", "Mtsensk", "Gryazi", "Mozhga", "Amursk", "Safonovo", "Alatyr", "Nadym", "Pechora", "Spassk Dalniy", "Apsheronsk", "Mozdok", "Volkhov", "Yefremov", "Shebekino", "Chernyakhovsk", "Usinsk", "Strezhevoy", "Artemovskiy", "Kamenna Obi", "Akhtubinsk", "Timashevsk", "Alapayevsk", "Novozybkov", "Nizhneudinsk", "Sovetsk", "Mariinsk", "Krasnoufimsk", "Partizansk", "Sokol", "Yemanzhelinsk", "Lesozavodsk", "Uryupinsk", "Gay", "Zelenokumsk", "Birsk", "Frolovo", "Mirnyy", "Luga", "Ob", "Uray", "Alekseyevka", "Bogoroditsk", "Tavda", "Kirov", "Vichuga", "Asha", "Guryevsk", "Millerovo", "Salekhard", "Uglich", "Tynda", "Kasimov", "Serdobsk", "Slantsy", "Severouralsk", "Blagodarnyy", "Boyarka", "Yalutorovsk", "Valuyki", "Sharya", "Shumerlya", "Korsakov", "Bezhetsk", "Kondopoga", "Staraya Russa", "Slavgorod", "Verkhniy Ufaley", "Zaozernyy", "Rostov", "Dyatkovo", "Segezha", "Velikiy Ustyug", "Kotovsk", "Kholmsk", "Omutninsk", "Kudymkar", "Barabinsk", "Gubakha", "Sasovo", "Karpinsk", "Mednogorsk", "Borzya", "Svetogorsk", "Savetskaya Gavan", "Kirovsk", "Sosnogorsk", "Karasuk", "Kartaly", "Zheleznogorsk Ilimskiy", "Kotelnich", "Dalnerechensk", "Nevyansk", "Aleysk", "Kolpashevo", "Atkarsk", "Sol-lletsk", "Nikolayevsk na Amure", "Asino", "Zeya", "Tara", "Pugachev", "Okha", "Bakal", "Buy", "Velsk", "Krasnoarmeysk", "Severobaykalsk", "Lensk", "Ust Kut", "Nelidovo", "Tatarsk", "Bologoye", "Topki", "Aldan", "Gusinoozyorsk", "Kalachinsk", "Bogotol", "Dudinka", "Lgov", "Inta", "Tashtagol", "Onega", "Kizel", "Toguchin", "Naryan Mar", "Shimanovsk", "Palatka", "Isikul", "Petrovsk Zabaykalskiy", "Krasnouralsk", "Cherepanovo", "Rayevskiy", "Yeniseysk", "Bikin", "Ivdel", "Uzhur", "Polyarnyy", "Slyudyanka", "Kavalerovo", "Vanino", "Kyakhta", "Abaza", "Kirsanov", "Kurtamysh", "Sovetsk", "Pallasovka", "Plast", "Nevelsk", "Poronaysk", "Kamenka", "Kupina", "Nikolayevsk", "Bodaybo", "Nikel", "Kodinskiy", "Gornyak", "Nerchinsk", "Kulunda", "Udachnyy", "Vyazemskiy", "Chegdomyn", "Ust' Ordynskiy", "Shilka", "Kem", "Golyshmanovo", "Kirensk", "Uyar", "Uglegorsk", "Mogocha", "Nazyvayevsk", "Belomorsk", "Cherlak", "Aleksandrovsk Sakhalinskiy", "Dolinsk", "Magdagachi", "Severnyy", "Zmeinogorsk", "Aginskoye", "Kirs", "Kargat", "Khilok", "Taksimo", "Anadyr", "Nogliki", "Skovorodino", "Olyokminsk", "Obluchye", "Vilyuysk", "Pokrovsk", "Biryusinsk", "Dombarovskiy", "Igrim", "Shira", "Ust Nera", "Suntar", "Olovyannaya", "Dalnegorsk", "Igarka", "Susuman", "Khandyga", "Makarov", "Verkhnevilyuysk", "Umba", "Tazovsky", "Mundybash", "Bilibino", "Tiksi", "Okhotsk", "Tura", "Chernyshevskiy" },
+  },
+  Tajikistan = {
+    Cities = {"Dushanbe", "Khujand", "Qurghonteppa", "Konibodom", "Uroteppa", "Kulob", "Khorugh", "Kuybyshevskiy" },
+  },
+  Vietnam = {
+    Cities = {"Ho Chi Minh City", "Hanoi", "Haiphong", "Can Tho", "Da Nang", "Hue", "Qui Nhon", "Biên Hòa", "Vinh", "Thái Nguyên", "Nha Trang", "Cà Mau", "Long Xuyen", "Việt Trì", "Buon Me Thuot", "Phan Thiet", "Rạch Giá", "Sóc Trăng", "Da Lat", "Quảng Ngãi", "Vung Tau", "Thu Dau Mot", "Nam Định", "Bạc Liêu", "Thái Bình", "Thanh Hóa", "Sơn Tây", "Đồng Hới", "Phan Rang", "Hong Gai", "Hà Tĩnh", "Cao Lãnh", "Lạng Sơn", "Cam Ranh", "Play Ku", "Tan An", "Cẩm Phả", "Tra Vinh", "Ninh Bình", "Tây Ninh", "Mỹ Tho", "Kon Tum", "Hoa Binh", "Vĩnh Long", "Yên Bái", "Quảng Trị", "Châu Đốc", "Tuy Hòa", "Lao Chi", "Truc Giang", "Hai Duong", "Bắc Giang", "Cao Bằng", "Hon Quan", "Ha Giang", "Tuyên Quang", "Bắc Kạn", "Sơn La", "Đông Hà", "Luan Chau" },
+  },
+  French Polynesia = {
+    Cities = {"Papeete" },
+  },
+  Lesotho = {
+    Cities = {"Maseru", "Mafetang", "Hlotse", "Mohales Hoek", "Moyeni", "Butha-Buthe", "Mokhotlong", "Teyateyaneng" },
+  },
+  Italy = {
+    Cities = {"Rome", "Milan", "Naples", "Turin", "Florence", "Salerno", "Palermo", "Catania", "Genoa", "Bari", "Bologna", "Verona", "Pescara", "Cagliari", "Venice", "Messina", "Como", "Caserta", "Trieste", "Pisa", "Taranto", "Bergamo", "Reggio di Calabria", "Treviso", "Modena", "Parma", "Lecce", "Livorno", "Foggia", "Perugia", "Ravenna", "Ferrara", "Siracusa", "Sassari", "Udine", "Barletta", "Trento", "Brindisi", "Novara", "Ancona", "Bolzano", "Catanzaro", "Arezzo", "Marsala", "Asti", "Potenza", "Ragusa", "L'Aquila", "Benevento", "Civitavecchia", "Crotone", "Siena", "Campobasso", "Olbia", "Aosta", "Vibo Valentia", "Forlì" },
+  },
+  Sri Lanka = {
+    Cities = {"Jaffna", "Colombo", "Moratuwa", "Batticaloa", "Anuradhapura", "Sri Jawewardenepura Kotte", "Kandy", "Trincomalee", "Kilinochchi", "Galle", "Matara", "Ratnapura", "Badulla", "Puttalan" },
+  },
+  Kazakhstan = {
+    Cities = {"Almaty", "Shymkent", "Qaraghandy", "Taraz", "Nur-Sultan", "Pavlodar", "Oskemen", "Semey", "Qyzylorda", "Aqtobe", "Oostanay", "Petropavlovsk", "Oral", "Atyrau", "Temirtau", "Mangyshlak", "Kokshetau", "Ekibastuz", "Rudny", "Zhezqazghan", "Turkistan", "Taldyqorghan", "Balqash", "Sarqan", "Kentau", "Ridder", "Arqalyq", "Zyryanovsk", "Zhetiqara", "Ayakoz", "Arys", "Shu", "Qapshaghay", "Qaratau", "Qulsary", "Zharkent", "Baykonur", "Atbasar", "Esik", "Aqsay", "Aral", "Beyneu", "Balyqshy", "Shieli", "Algha", "Oktyabrsk", "Shalqar", "Shemonaikha", "Erymentau", "Khromtau", "Lenger", "Makinsk", "Oytal", "Qarazhal", "Boralday", "Ushtobe", "Zhosaly", "Atasu", "Embi", "Zaysan", "Derzhavinsk", "Urzhar", "Maqat", "Esil", "Tayynsha", "Qulan", "Otar", "Bulaevo", "Komsomolets", "Aqadyr", "Ertis", "Shar", "Kachiry", "Makhambet", "Zhangaozen", "Aqsu", "Zhanibek", "Qarqaraly", "Qusmuryn", "Bayghanin", "Osakarovka", "Bestobe", "Tobol", "Zholymbet", "Kishkenekol", "Qazaly", "Chapaev", "Turgay", "Fort Shevchenko", "Korgalzhyn", "Moiynkum" },
+  },
+  North Korea = {
+    Cities = {"Pyongyang", "Nampo", "Hamhung", "Hungnam", "Chongjin", "Sunchon", "Kaesong", "Wonsan", "Kanggye", "Sinuiju", "Hyeson", "Haeju", "Kimchaek", "Manpo", "Sariwon", "Chongju", "Kilchu", "Musan", "Munchon", "Ongjin", "Pyongsan", "Sonbong", "Changyon", "Sin-Ni", "Chosan" },
+  },
+  Algeria = {
+    Cities = {"Algiers", "Oran", "Constantine", "Blida", "Annaba", "Chlef", "Béjaïa", "Batna", "Sétif", "Tlemcen", "Skikda", "Sidi bel Abbes", "Biskra", "Mostaganem", "Tiarat", "El Oued", "Ouargla", "Tébessa", "Djelfa", "M'sila", "Jijel", "Médéa", "Tizi-Ouzou", "Béchar", "Saïda", "Bordj Bou Arréridj", "Souk Ahras", "Touggourt", "Ghardaia", "Guelma", "Laghouat", "Bouïra", "Mascara", "Oum el Bouaghi", "Tamanrasset", "El Bayadh", "Sefra", "Adrar", "Timimoun", "I-n-Salah", "Reggane", "El Goléa", "Tindouf", "Hassi Messaoud", "Abadla", "Illizi", "Béni Ounif" },
+  },
+  Bahrain = {
+    Cities = {"Manama" },
+  },
+  Malaysia = {
+    Cities = {"George Town", "Kuala Lumpur", "Kelang", "Johor Bahru", "Butterworth", "Malacca", "Ipoh", "Kuching", "Kota Kinabalu", "Kota Baharu", "Shah Alam", "Sandakan", "Seremban", "Kuantan", "Sungai Petani", "Kuala Terengganu", "Alor Setar", "Tawau", "Taiping", "Miri", "Sibu", "Batu Pahat", "Muar", "Keluang", "Bintulu", "Lahad Datu", "Teluk Intan", "Chukai", "Putrajaya", "Kangar", "Raub", "Kuala Lipis" },
+  },
+  Zimbabwe = {
+    Cities = {"Harare", "Bulawayo", "Chitungwiza", "Mutare", "Gweru", "Kwekwe", "Kadoma", "Masvingo", "Chinhoyi", "Zvishavane", "Victoria Falls", "Hwange", "Chiredzi", "Beitbridge", "Kariba", "Karoi", "Gwanda", "Shamva", "Mazowe" },
+  },
+  Chile = {
+    Cities = {"Santiago", "Concepción", "Valparaíso", "Viña del Mar", "Antofagasta", "Talcahuano", "Temuco", "San Bernardo", "Rancagua", "Iquique", "Talca", "Arica", "Puerto Montt", "Coquimbo", "Valdivia", "La Serena", "Osorno", "Chillán", "Los Angeles", "Calama", "Copiapó", "Punta Arenas", "Curicó", "San Antonio", "Coronel", "Linares", "Quillota", "Ovalle", "San Fernando", "San Felipe", "Los Andes", "Lota", "Coihaique", "Vallenar", "Angol", "Constitución", "Villarica", "Cauquenes", "Curanilahue", "Castro", "Ancud", "La Ligua", "Illapel", "La Unión", "Puerto Varas", "Victoria", "Tocopilla", "Lebu", "Salamanca", "Puerto Natales", "Nueva Imperial", "Diego de Almagro", "Collipulli", "Loncoche", "Río Bueno", "Chanaral", "Vicuña", "Tierra Amarilla", "Los Lagos", "Calbuco", "Chuquicamata", "Carahue", "Pichilemu", "Pozo Almonte", "Caldera", "Lonquimay", "Taltal", "Puerto Aisén", "Quellón", "Quirihue", "Combarbalá", "Melinka", "Chaitén" },
+  },
+  New Zealand = {
+    Cities = {"Auckland", "Wellington", "Manukau", "Christchurch", "Waitakere", "North Shore", "Hamilton", "Tauranga", "Dunedin", "Lower Hutt", "Palmerston North", "Nelson", "Napier", "Rotorua", "Porirua", "New Plymouth", "Whangarei", "Invercargill", "Wanganui", "Upper Hutt", "Gisborne", "Timaru", "Pukekohe", "Paraparaumu", "Taupo", "Masterton", "Levin", "Whakatane", "Ashburton", "Queenstown", "Cambridge", "Tokoroa", "Hawera", "Kaiapoi", "Greymouth", "Gore", "Thames", "Kerikeri", "Kaitaia", "Wanaka" },
+  },
+  South Africa = {
+    Cities = {"Johannesburg", "Cape Town", "Benoni", "Durban", "Pretoria", "Vereeniging", "Port Elizabeth", "Pietermaritzburg", "Bloemfontein", "Welkom", "East London", "Thohoyandou", "Springs", "Uitenhage", "Polokwane", "Paarl", "Klerksdorp", "George", "Rustenburg", "Kimberley", "Bhisho", "Middelburg", "Vryheid", "Umtata", "Worcester", "Potchefstroom", "Brits", "Queenstown", "Mmabatho", "Kroonstad", "Bethal", "Grahamstown", "Bethlehem", "Oudtshoorn", "Standerton", "Upington", "Saldanha", "Tzaneen", "Knysna", "Graaff Reinet", "Port Shepstone", "Vryburg", "Ladysmith", "Beaufort West", "Aliwal North", "Volksrust", "Lebowakgomo", "Cradock", "De Aar", "Hermanus", "Ulundi", "Komatipoort", "Musina", "Middelburg", "Port Alfred", "Bloemhof", "Mossel Bay", "Bredasdorp", "Swellendam", "Colesberg", "Brandfort", "Prieska", "Springbok", "Kuruman", "Port St. Johns", "Carnarvon", "Williston" },
+  },
+  Portugal = {
+    Cities = {"Lisbon", "Porto", "Braga", "Funchal", "Setúbal", "Coimbra", "Ponta Delgada", "Portimão", "Évora", "Aveiro", "Leiria", "Faro", "Beja", "Bragança", "Castelo Branco", "Guarda", "Santarém", "Viseu", "Covilhã", "Vila Real", "Portalegre", "Viana Do Castelo", "Angra do Heroísmo", "Horta" },
+  },
+  Macau = {
+    Cities = {"Macau" },
+  },
+  Belarus = {
+    Cities = {"Minsk", "Homyel", "Mahilyow", "Vitsyebsk", "Hrodna", "Brest", "Babruysk", "Baranavichy", "Barysaw", "Orsha", "Pinsk", "Mazyr", "Maladzyechna", "Lida", "Polatsk" },
+  },
+  Brazil = {
+    Cities = {"São Paulo", "Rio de Janeiro", "Belo Horizonte", "Porto Alegre", "Brasília", "Recife", "Fortaleza", "Salvador", "Curitiba", "Campinas", "Belém", "Goiânia", "Manaus", "Santos", "Vitória", "Niterói", "Vila Velha", "Vila Velha", "Maceió", "Natal", "São Luís", "Florianópolis", "Joinville", "Natal", "João Pessoa", "Olinda", "Teresina", "Novo Hamburgo", "Nova Iguaçu", "Cuiabá", "Campo Grande", "São José dos Campos", "Jaboatao", "Aracaju", "São José dos Pinhais", "Santo André", "Canoas", "Uberlândia", "Sorocaba", "Ribeirão Preto", "Londrina", "Jundiaí", "Macapá", "Feira de Santana", "Americana", "Juiz de Fora", "Volta Redonda", "Foz do Iguaçu", "Campina Grande", "Ipatinga", "Taubaté", "Campos", "Caxias do Sul", "São José do Rio Preto", "Piracicaba", "Bauru", "Montes Claros", "Maringá", "Itajaí", "Pelotas", "Itu", "Anápolis", "Vitória da Conquista", "Porto Velho", "Franca", "Blumenau", "Ponta Grossa", "Limeira", "Petrópolis", "Crato", "Crato", "Cabo Frio", "Petrolina", "Uberaba", "Rio Branco", "Cascavel", "Governador Valadares", "Várzea Grande", "Santa Maria", "Caruaru", "Palmas", "Boa Vista", "Ilhéus", "Santarém", "Juazeiro do Norte", "Itabuna", "Imperatriz", "Marília", "Presidente Prudente", "São Carlos", "Criciúma", "Guaratinguetá", "Timon", "Mossoró", "Sete Lagoas", "Divinópolis", "Rio Grande", "Arapiraca", "Cachoeiro de Itapemirim", "Rio Claro", "Passo Fundo", "Nova Friburgo", "Araçatuba", "Barra Mansa", "Marabá", "Carpina", "Lajes", "Dourados", "Xapeco", "Rio Largo", "Barreiras", "Sobral", "Rondonópolis", "Guarapuava", "Poços de Caldas", "Cabo de Santo Agostinho", "Macaé", "Paranaguá", "Parnaíba", "Castanhal", "Jequié", "Caxias", "Pindamonhangaba", "Jaraguá do Sul", "Bragança Paulista", "Itapetininga", "Alagoinhas", "Uruguaiana", "Porto Seguro", "Barbacena", "Jaú", "Pouso Alegre", "Botucatu", "Santa Cruz do Sul", "Conselheiro Lafaiete", "Garanhuns", "Catanduva", "Apucarana", "Bagé", "Linhares", "Barretos", "Teófilo Otoni", "Passos", "Ubá", "Ourinhos", "Trindade", "Arapongas", "Araguari", "Corumbá", "Erechim", "Juazeiro", "Ponta Porã", "Bento Gonçalves", "Tatuí", "Patos", "Itaituba", "Tubarão", "Muriaé", "Itanhaem", "Santana do Livramento", "Nova Lima", "Brusque", "Assis", "Paulo Afonso", "Ituiutaba", "Cáceres", "Porto Santana", "Codó", "Araxá", "Lavras", "Avaré", "Formosa", "Itumbiara", "Abaetetuba", "Três Lagoas", "São João del Rei", "Itaúna", "São Mateus", "Jataí", "São João da Boa Vista", "Tucuruí", "Campo Murao", "Cachoeira do Sul", "Bacabal", "Porto União", "Goiana", "Ijuí", "Altamira", "Paracatu", "Iguatu", "Paragominas", "Guajara-Miram", "Jaboticabal", "Balsas", "Santa Inês", "Rio Negro", "Santo Ângelo", "Ji-Paraná", "Gurupi", "Parintins", "Curvelo", "Caçador", "Irecê", "Catalão", "Vilhena", "Valença", "Itapeva", "Tupã", "Fernandópolis", "Canela", "Pirassununga", "Pirapora", "Caratinga", "Itapetinga", "São Borja", "Carazinho", "Santa Rosa", "Manacapuru", "Telêmaco Borba", "Guanambi", "Ariquemes", "Timbaúba", "Picos", "Arcoverde", "Bragança", "Cruzeiro do Sul", "Serrinha", "Vacaria", "Janaúba", "Formiga", "Nova Viçosa", "Itapipoca", "Estância", "São Gabriel", "Concórdia", "São José de Ribamar", "Caicó", "Penápolis", "Coari", "Registro", "Camaquã", "Crateús", "Andradina", "Barra do Garças", "Batatais", "Itacoatiara", "Tefé", "Araguaína", "Quixadá", "Barra do Corda", "Floriano", "Senhor do Bonfim", "Rio Verde", "Ponte Nova", "Guaxupé", "Goianésia", "Capanema", "Itamaraju", "Campo Belo", "Itaberaba", "Breves", "Leopoldina", "Irati", "Cametá", "Piripiri", "Camocim", "Aracati", "Inhumas", "Imbituba", "Araranguá", "Canindé", "Salgueiro", "Penedo", "Castro", "Brumado", "Jaguaquara", "Canoinhas", "Garça", "Palmeira dos Índios", "Salinópolis", "Frutal", "Chapadinha", "Aquidauana", "Bom Jesus da Lapa", "Alta Floresta", "Laguna", "Russas", "Palmas", "Mineiros", "Pinheiro", "Joaçaba", "Remanso", "Nanuque", "Diamantina", "Rosário do Sul", "Cristalina", "Guaira", "São Francisco do Sul", "Açu", "Oriximiná", "Barreiros", "Xique-Xique", "Jacarezinho", "Itapecuru Mirim", "Januária", "Osório", "Morrinhos", "Coroatá", "Capitão Poço", "Maués", "Paranaíba", "Bocaiúva", "São Luiz Gonzaga", "Campo Maior", "Jacareacanga", "Barra do Bugres", "Tucano", "Presidente Dutra", "Grajau", "Novo Horizonte", "Iturama", "Jaguarão", "Pontes e Lacerda", "Almenara", "Tauá", "Acaraú", "Ubaitaba", "Icó", "Iporá", "Santa Vitória do Palmar", "Santa Cruz", "Óbidos", "Niquelândia", "Colíder", "Conceição do Araguaia", "Aripuana", "Viana", "Miracema", "Ipú", "Canavieiras", "Alenquer", "Sena Madureira", "Granja", "Pimenta Bueno", "Lapa", "São Lourenço do Sul", "Colinas", "Pires do Rio", "Rolim de Moura", "Iguape", "Jardim", "Guanhães", "Itambé", "Santa Maria da Vitória", "Quaraí", "Nova Cruz", "Maracaju", "Baturité", "Itaberaí", "Araçuaí", "Eirunepé", "Barras", "Manicoré", "Portel", "Itupiranga", "Paracuru", "Santa Cruz Cabrália", "Viseu", "Ceres", "Apodi", "Fonte Boa", "São Gabriel da Cachoeira", "Pedreiras", "Barcelos", "Caracaraí", "Alvorada", "Porto Nacional", "Novo Airão", "Sinop", "Tocantinópolis", "Rosário" },
+  },
+  South Korea = {
+    Cities = {"Seoul", "Busan", "Incheon", "Daegu", "Daejeon", "Gwangju", "Changwon", "Suwon", "Ulsan", "Songnam", "Goyang", "Puch'on", "Cheongju", "Ansan", "Jeonju", "Pohang", "Jeju", "Yeosu", "Iksan", "Mokpo", "Gunsan", "Wonju", "Chuncheon", "Gangneung", "Gyeongju", "Andong", "Sokcho", "Eumseong" },
+  },
+  Barbados = {
+    Cities = {"Bridgetown" },
+  },
+  Canada = {
+    Cities = {"Toronto", "Montréal", "Vancouver", "Ottawa", "Calgary", "Edmonton", "Hamilton", "Winnipeg", "Québec", "Oshawa", "Kitchener", "Halifax", "London", "Windsor", "Victoria", "Saskatoon", "Barrie", "Regina", "Sudbury", "Abbotsford", "Sarnia", "Sherbrooke", "St. John's", "Kelowna", "Trois-Rivières", "Kingston", "Thunder Bay", "Moncton", "Saint John", "Nanaimo", "Peterborough", "St.-Jerome", "Red Deer", "Lethbridge", "Kamloops", "Prince George", "Medicine Hat", "Drummondville", "Chicoutimi", "Fredericton", "Chilliwack", "North Bay", "Shawinigan", "Cornwall", "Joliette", "Belleville", "Charlottetown", "Victoriaville", "Grand Prairie", "Penticton", "Sydney", "Orillia", "Rimouski", "Timmins", "Prince Albert", "Campbell River", "Courtenay", "Orangeville", "Moose Jaw", "Brandon", "Brockville", "Saint-Georges", "Sept-Îles", "Rouyn-Noranda", "Whitehorse", "Owen Sound", "Fort McMurray", "Corner Brook", "Val d'Or", "New Glasgow", "Terrace", "North Battleford", "Yellowknife", "Fort St. John", "Cranbrook", "Edmundston", "Rivière-du-Loup", "Camrose", "Pembroke", "Yorkton", "Swift Current", "Prince Rupert", "Williams Lake", "Brooks", "Quesnel", "Thompson", "Dolbeau", "Powell River", "Wetaskiwin", "Nelson", "Mont-Laurier", "Kenora", "Dawson Creek", "Amos", "Baie-Comeau", "Hinton", "Selkirk", "Steinbach", "Weyburn", "Amherst", "Kapuskasing", "Dauphin", "Dryden", "Revelstoke", "Happy Valley - Goose Bay", "Banff", "Yarmouth", "La Sarre", "Parry Sound", "Stephenville", "Antigonish", "Flin Flon", "Fort Nelson", "Smithers", "Iqaluit", "Bathurst", "The Pas", "Norway House", "Meadow Lake", "Vegreville", "Stettler", "Peace River", "New Liskeard", "Hearst", "Cambridge Bay" },
+  },
+  Bahamas = {
+    Cities = {"Nassau", "Freeport" },
+  },
+  Ethiopia = {
+    Cities = {"Addis Ababa", "Nazret", "Dire Dawa", "Bahir Dar", "Dese", "Harar", "Gondar", "Awasa", "Jima", "Giyon", "Shashemene", "Adigrat", "Mekele", "Hosaina", "Asela", "Gode", "Nekemte", "Debre Markos", "Arba Minch", "Sodo", "Debre Birhan", "Jijiga", "Aksum", "Dila", "Hagere Hiywet", "Yirga Alem", "Goba", "Gimbi", "Asosa", "Dembi Dolo", "Bati", "Dolo Bay", "Nagele", "Gore", "Kebridahar", "Semera" },
+  },
+  Angola = {
+    Cities = {"Luanda", "Huambo", "Lobito", "Benguela", "Namibe", "Malanje", "Lubango", "Kuito", "Cabinda", "Capenda-Camulemba", "Soyo", "Mbanza-Congo", "Uíge", "Saurimo", "Tômbua", "Sumbe", "Lucapa", "Mavinga", "Caxito", "Luena", "Nzeto", "Camacupa", "Luau", "Ambriz", "Menongue", "Camabatela", "Waku Kungo", "Dundo", "Songo", "Ondjiva", "Quibala", "Ndalatando", "Cazomba" },
+  },
+  Thailand = {
+    Cities = {"Bangkok", "Chiang Mai", "Samut Prakan", "Nakhon Ratchasima", "Hat Yai", "Ubon Ratchathani", "Nonthaburi", "Khon Kaen", "Udon Thani", "Nakhon Si Thammarat", "Chon Buri", "Lampang", "Si Racha", "Phitsanulok", "Surat Thani", "Pathum Thani", "Pattani", "Yala", "Trang", "Ayutthaya", "Phuket", "Nakhon Pathom", "Chiang Rai", "Nakhon Sawan", "Ratchaburi", "Nong Khai", "Chanthaburi", "Phetchaburi", "Chumphon", "Nan", "Prachin Buri", "Uttaradit", "Sakhon Nakhon", "Saraburi", "Narathiwat", "Kanchanaburi", "Samut Sakhon", "Surin", "Kamphaeng Phet", "Chaiyaphum", "Lop Buri", "Nakhon Phanom", "Kalasin", "Supham Buri", "Maha Sarakham", "Phetchabun", "Hua Hin", "Chachoengsao", "Songkhla", "Buriram", "Mae Sot", "Sisaket", "Phatthalung", "Roi Et", "Phrae", "Rayong", "Phichit", "Loei", "Samut Songkhram", "Satun", "Prachuap Khiri Khan", "Tak", "Krabi", "Thung Song", "Ranong", "Aranyaprathet", "Uthai Thani", "Yasothon", "Trat", "Nakhon Nayok", "Phayao", "Sing Buri", "Bua Yai", "Chainat", "Lamphun", "Ang Thong", "Sukhothai", "Phangnga", "Mae Hong Son" },
+  },
+}
