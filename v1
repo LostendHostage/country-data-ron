@@ -1,3 +1,5 @@
+warn("test")
+
 local data = {
   Paraguay = {
     Cities = {"Asunción", "San Lorenzo", "Encarnación", "Ciudad del Este", "Pedro Juan Caballero", "Coronel Oviedo", "Concepción", "Villarrica", "Itá", "Ypacaraí", "Pilar", "Caacupé", "Paraguarí", "Bella Vista", "Horqueta", "Villa Hayes", "Coronel Bogado", "Belén", "Filadelfia", "San Pedro", "San Juan Bautista", "Caazapá", "Hohenau", "Rosario", "La Victoria" },
